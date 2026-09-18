@@ -1,0 +1,10 @@
+Dataset,Expected frequency,Inferred frequency,Reason
+Initial Claims,weekly,weekly,Native weekly; outside monthly scope
+SLOOS: Banks Tightening C&I Lending Standards,quarterly,quarterly,Native quarterly; outside monthly scope
+SLOOS: Stronger Demand for C&I Loans,quarterly,quarterly,Native quarterly; outside monthly scope
+Delinquency Rate on Business Loans,quarterly,quarterly,Native quarterly; outside monthly scope
+Reserve Balances with Federal Reserve Banks,weekly,weekly,Native weekly; outside monthly scope
+Federal Reserve Total Assets,weekly,weekly,Native weekly; outside monthly scope
+Real Exports of Goods and Services,quarterly,quarterly,Native quarterly; outside monthly scope
+Real Imports of Goods and Services,quarterly,quarterly,Native quarterly; outside monthly scope
+Nonfarm Business Sector Labor Productivity,quarterly,quarterly,Native quarterly; outside monthly scope

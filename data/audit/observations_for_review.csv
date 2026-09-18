@@ -1,0 +1,6 @@
+series_id,raw_record,reason,raw_record_json
+RRSFS,407,missing value; removed missing value from training input; ,"{""observation_date"": ""2025-10-01"", ""RRSFS"": """"}"
+UNRATE,935,missing value; removed missing value from training input; ,"{""observation_date"": ""2025-10-01"", ""UNRATE"": """"}"
+CIVPART,935,missing value; removed missing value from training input; ,"{""observation_date"": ""2025-10-01"", ""CIVPART"": """"}"
+CPIAUCSL,947,missing value; removed missing value from training input; ,"{""observation_date"": ""2025-10-01"", ""CPIAUCSL"": """"}"
+CPILFESL,827,missing value; removed missing value from training input; ,"{""observation_date"": ""2025-10-01"", ""CPILFESL"": """"}"

@@ -1,0 +1,11 @@
+{
+  "monthly_series": 27,
+  "unique_pairs": 351,
+  "lag_range_months": "-12 to +12",
+  "pair_lag_evaluations": 8775,
+  "defined_pearson_coefficients": 8775,
+  "pairs_with_peak_at_zero": 194,
+  "pairs_with_peak_away_from_zero": 157,
+  "evaluations_below_minimum_overlap": 0,
+  "interpretation": "Nonzero peak lags are descriptive timing associations; multiple comparisons and release timing prevent predictive claims."
+}

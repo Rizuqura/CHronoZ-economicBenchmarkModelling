@@ -1,0 +1,11 @@
+{
+  "monthly_series": 27,
+  "pair_paths": 351,
+  "window_months": 60,
+  "minimum_paired_observations": 48,
+  "defined_rolling_estimates": 189286,
+  "latest_window": "2021-09 to 2026-08",
+  "pairs_defined_in_latest_window": 351,
+  "independently_checked_windows": 1053,
+  "interpretation": "Changes in rolling association are descriptive; overlapping windows are not independent evidence of regimes or predictability."
+}

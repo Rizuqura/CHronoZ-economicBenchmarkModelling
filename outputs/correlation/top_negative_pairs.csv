@@ -1,0 +1,21 @@
+Dataset 1,Dataset 2,Correlation,Overlapping observations,Category 1,Category 2,Overlap start,Overlap end
+Nonfarm Payroll Employment,Unemployment Rate,-0.8785816838019592,941,Labor,Labor,1948-02-01,2026-08-01
+Nonfarm Payroll Employment,Average Hourly Earnings — Total Private,-0.8469216949745176,245,Labor,Labor,2006-04-01,2026-08-01
+Real Personal Consumption Expenditure,Average Hourly Earnings — Total Private,-0.7636481982861237,234,Growth / Activity,Labor,2007-02-01,2026-07-01
+Real Personal Consumption Expenditure,Unemployment Rate,-0.7635677574136712,232,Growth / Activity,Labor,2007-02-01,2026-07-01
+Manufacturing Production,Average Hourly Earnings — Total Private,-0.7274894801038084,244,Growth / Activity,Labor,2006-04-01,2026-07-01
+Industrial Production,Average Hourly Earnings — Total Private,-0.6998096797399737,244,Growth / Activity,Labor,2006-04-01,2026-07-01
+Manufacturing Production,Unemployment Rate,-0.6895593286158255,652,Growth / Activity,Labor,1972-02-01,2026-07-01
+Average Weekly Hours — Manufacturing,Average Hourly Earnings — Total Private,-0.6890722412572714,245,Labor,Labor,2006-04-01,2026-08-01
+Average Hourly Earnings — Total Private,Total Capacity Utilization,-0.6826167127931392,244,Labor,External / Structural,2006-04-01,2026-07-01
+Labor Force Participation Rate,Average Hourly Earnings — Total Private,-0.6638326995424982,243,Labor,Labor,2006-04-01,2026-08-01
+Real Retail & Food Services Sales,Average Hourly Earnings — Total Private,-0.6415856536707308,243,Growth / Activity,Labor,2006-04-01,2026-08-01
+Unemployment Rate,Total Capacity Utilization,-0.6386281358729581,712,Labor,External / Structural,1967-02-01,2026-07-01
+Industrial Production,Unemployment Rate,-0.594320900636186,940,Growth / Activity,Labor,1948-02-01,2026-07-01
+Real Personal Consumption Expenditure,Commercial & Industrial Loans,-0.5341149732095443,234,Growth / Activity,Credit,2007-02-01,2026-07-01
+Real Retail & Food Services Sales,Unemployment Rate,-0.5175610532140149,413,Growth / Activity,Labor,1992-02-01,2026-08-01
+Real Personal Income excluding transfers,Average Hourly Earnings — Total Private,-0.4988369134356979,244,Growth / Activity,Labor,2006-04-01,2026-07-01
+Real Personal Income excluding transfers,Unemployment Rate,-0.4648869376569451,808,Growth / Activity,Labor,1959-02-01,2026-07-01
+Unemployment Rate,Average Weekly Hours — Manufacturing,-0.39253870590638573,941,Labor,Labor,1948-02-01,2026-08-01
+Nonfarm Payroll Employment,M2 Money Supply,-0.34411652218402644,810,Labor,Policy / Liquidity,1959-02-01,2026-07-01
+Commercial & Industrial Loans,Total Capacity Utilization,-0.32659894691098124,714,Credit,External / Structural,1967-02-01,2026-07-01

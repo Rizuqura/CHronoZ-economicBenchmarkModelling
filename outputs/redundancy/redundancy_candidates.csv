@@ -1,0 +1,8 @@
+Dataset 1,Dataset 2,Pearson,Spearman,Overlapping observations,Overlap start,Overlap end,Category 1,Category 2,Candidate
+Industrial Production,Total Capacity Utilization,0.9836908972962016,0.9625467315908884,714,1967-02-01,2026-07-01,Growth / Activity,External / Structural,True
+Industrial Production,Manufacturing Production,0.9560883315141447,0.8961797741722684,654,1972-02-01,2026-07-01,Growth / Activity,Growth / Activity,True
+Manufacturing Production,Total Capacity Utilization,0.9384523854007857,0.8564839685419441,654,1972-02-01,2026-07-01,Growth / Activity,External / Structural,True
+Real Personal Consumption Expenditure,Real Retail & Food Services Sales,0.9212848215917803,0.687996478880007,232,2007-02-01,2026-07-01,Growth / Activity,Growth / Activity,True
+CPI All Items,PCE Price Index,0.9112860212995306,0.8826222816387131,808,1959-02-01,2026-07-01,Inflation,Inflation,True
+PCE Price Index,Core PCE Price Index,0.8306264240669015,0.8116207465217282,810,1959-02-01,2026-07-01,Inflation,Inflation,True
+Producer Prices — Final Demand,Producer Prices — All Commodities,0.8148299672153587,0.7793088724877301,201,2009-12-01,2026-08-01,Inflation,Inflation,True

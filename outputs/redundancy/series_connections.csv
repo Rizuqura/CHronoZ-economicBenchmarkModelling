@@ -1,0 +1,28 @@
+Dataset,Category,Candidate connections
+Industrial Production,Growth / Activity,2
+Manufacturing Production,Growth / Activity,2
+Real Personal Consumption Expenditure,Growth / Activity,1
+Real Personal Income excluding transfers,Growth / Activity,0
+Real Personal Income,Growth / Activity,0
+Real Retail & Food Services Sales,Growth / Activity,1
+Housing Starts,Growth / Activity,0
+Building Permits,Growth / Activity,0
+Nonfarm Payroll Employment,Labor,0
+Unemployment Rate,Labor,0
+Average Weekly Hours — Total Private,Labor,0
+Average Weekly Hours — Manufacturing,Labor,0
+Job Openings,Labor,0
+Labor Force Participation Rate,Labor,0
+Average Hourly Earnings — Total Private,Labor,0
+CPI All Items,Inflation,1
+Core CPI,Inflation,0
+PCE Price Index,Inflation,2
+Core PCE Price Index,Inflation,1
+Producer Prices — Final Demand,Inflation,1
+Producer Prices — All Commodities,Inflation,1
+Commercial & Industrial Loans,Credit,0
+Consumer Credit,Credit,0
+Federal Funds Rate,Policy / Liquidity,0
+Total Bank Reserves,Policy / Liquidity,0
+M2 Money Supply,Policy / Liquidity,0
+Total Capacity Utilization,External / Structural,2

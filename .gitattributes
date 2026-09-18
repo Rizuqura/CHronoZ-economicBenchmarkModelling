@@ -1,0 +1,3 @@
+# Preserve source bytes and analysis fingerprints across platforms.
+*.csv -text
+*.png binary

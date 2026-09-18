@@ -1,0 +1,28 @@
+Dataset,Transformation,Nonconsecutive pairs skipped,Nonpositive pairs skipped,Nonfinite changes skipped
+Industrial Production,One-month percentage change,0,0,0
+Manufacturing Production,One-month percentage change,0,0,0
+Real Personal Consumption Expenditure,One-month percentage change,0,0,0
+Real Personal Income excluding transfers,One-month percentage change,0,0,0
+Real Personal Income,One-month percentage change,0,0,0
+Real Retail & Food Services Sales,One-month percentage change,1,0,0
+Housing Starts,One-month percentage change,0,0,0
+Building Permits,One-month percentage change,0,0,0
+Nonfarm Payroll Employment,One-month percentage change,0,0,0
+Unemployment Rate,One-month first difference,1,0,0
+Average Weekly Hours — Total Private,One-month first difference,0,0,0
+Average Weekly Hours — Manufacturing,One-month first difference,0,0,0
+Job Openings,One-month percentage change,0,0,0
+Labor Force Participation Rate,One-month first difference,1,0,0
+Average Hourly Earnings — Total Private,One-month percentage change,0,0,0
+CPI All Items,One-month percentage change,1,0,0
+Core CPI,One-month percentage change,1,0,0
+PCE Price Index,One-month percentage change,0,0,0
+Core PCE Price Index,One-month percentage change,0,0,0
+Producer Prices — Final Demand,One-month percentage change,0,0,0
+Producer Prices — All Commodities,One-month percentage change,0,0,0
+Commercial & Industrial Loans,One-month percentage change,0,0,0
+Consumer Credit,One-month percentage change,0,0,0
+Federal Funds Rate,One-month first difference,0,0,0
+Total Bank Reserves,One-month percentage change,0,0,0
+M2 Money Supply,One-month percentage change,0,0,0
+Total Capacity Utilization,One-month first difference,0,0,0

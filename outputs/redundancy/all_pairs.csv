@@ -1,0 +1,352 @@
+Dataset 1,Dataset 2,Pearson,Spearman,Overlapping observations,Overlap start,Overlap end,Category 1,Category 2,Candidate
+Industrial Production,Manufacturing Production,0.9560883315141447,0.8961797741722684,654,1972-02-01,2026-07-01,Growth / Activity,Growth / Activity,True
+Industrial Production,Real Personal Consumption Expenditure,0.7594489652384268,0.3168421570211361,234,2007-02-01,2026-07-01,Growth / Activity,Growth / Activity,False
+Industrial Production,Real Personal Income excluding transfers,0.47148682929356067,0.41911145872752753,810,1959-02-01,2026-07-01,Growth / Activity,Growth / Activity,False
+Industrial Production,Real Personal Income,0.004511207309738523,0.3273568545541702,810,1959-02-01,2026-07-01,Growth / Activity,Growth / Activity,False
+Industrial Production,Real Retail & Food Services Sales,0.5429437765450901,0.2156993683468898,412,1992-02-01,2026-07-01,Growth / Activity,Growth / Activity,False
+Industrial Production,Housing Starts,0.21604653324910764,0.10876038469064027,810,1959-02-01,2026-07-01,Growth / Activity,Growth / Activity,False
+Industrial Production,Building Permits,0.2072300376257489,0.16172126443282306,798,1960-02-01,2026-07-01,Growth / Activity,Growth / Activity,False
+Industrial Production,Nonfarm Payroll Employment,0.6407340889574615,0.5262632728118551,1050,1939-02-01,2026-07-01,Growth / Activity,Labor,False
+Industrial Production,Unemployment Rate,-0.594320900636186,-0.3831527827680014,940,1948-02-01,2026-07-01,Growth / Activity,Labor,False
+Industrial Production,Average Weekly Hours — Total Private,0.2223618824665098,0.3342622892831205,244,2006-04-01,2026-07-01,Growth / Activity,Labor,False
+Industrial Production,Average Weekly Hours — Manufacturing,0.5063004688221476,0.45418102883266537,1050,1939-02-01,2026-07-01,Growth / Activity,Labor,False
+Industrial Production,Job Openings,0.33852160420920224,0.16900618701730025,307,2001-01-01,2026-07-01,Growth / Activity,Labor,False
+Industrial Production,Labor Force Participation Rate,0.2207929899609996,0.04925862654900548,940,1948-02-01,2026-07-01,Growth / Activity,Labor,False
+Industrial Production,Average Hourly Earnings — Total Private,-0.6998096797399737,-0.11484877298416787,244,2006-04-01,2026-07-01,Growth / Activity,Labor,False
+Industrial Production,CPI All Items,0.06468232992649701,0.01043478710406902,952,1947-02-01,2026-07-01,Growth / Activity,Inflation,False
+Industrial Production,Core CPI,0.035175668487585035,-0.012658912296959852,832,1957-02-01,2026-07-01,Growth / Activity,Inflation,False
+Industrial Production,PCE Price Index,0.041324753720270044,-0.009554113969648607,810,1959-02-01,2026-07-01,Growth / Activity,Inflation,False
+Industrial Production,Core PCE Price Index,0.019943885874555284,-0.022872395233445152,810,1959-02-01,2026-07-01,Growth / Activity,Inflation,False
+Industrial Production,Producer Prices — Final Demand,0.2803787265050583,0.17205104357549733,200,2009-12-01,2026-07-01,Growth / Activity,Inflation,False
+Industrial Production,Producer Prices — All Commodities,0.3333581475937503,0.1953484311226166,1290,1919-02-01,2026-07-01,Growth / Activity,Inflation,False
+Industrial Production,Commercial & Industrial Loans,-0.11657819340814604,0.11286246002794109,954,1947-02-01,2026-07-01,Growth / Activity,Credit,False
+Industrial Production,Consumer Credit,0.19551335543441398,0.19455728029013009,1002,1943-02-01,2026-07-01,Growth / Activity,Credit,False
+Industrial Production,Federal Funds Rate,0.22551594745428702,0.23303119676551182,864,1954-08-01,2026-07-01,Growth / Activity,Policy / Liquidity,False
+Industrial Production,Total Bank Reserves,-0.17418187322380493,-0.031810090613128006,810,1959-02-01,2026-07-01,Growth / Activity,Policy / Liquidity,False
+Industrial Production,M2 Money Supply,-0.2121445079399475,0.03919711122183414,810,1959-02-01,2026-07-01,Growth / Activity,Policy / Liquidity,False
+Industrial Production,Total Capacity Utilization,0.9836908972962016,0.9625467315908884,714,1967-02-01,2026-07-01,Growth / Activity,External / Structural,True
+Manufacturing Production,Real Personal Consumption Expenditure,0.8079733659461156,0.2889482051750338,234,2007-02-01,2026-07-01,Growth / Activity,Growth / Activity,False
+Manufacturing Production,Real Personal Income excluding transfers,0.48043609576883517,0.37537576198332356,654,1972-02-01,2026-07-01,Growth / Activity,Growth / Activity,False
+Manufacturing Production,Real Personal Income,-0.045568772272471296,0.27519523149846736,654,1972-02-01,2026-07-01,Growth / Activity,Growth / Activity,False
+Manufacturing Production,Real Retail & Food Services Sales,0.6166622968997635,0.2683490387588103,412,1992-02-01,2026-07-01,Growth / Activity,Growth / Activity,False
+Manufacturing Production,Housing Starts,0.2875575899708016,0.1965011658551352,654,1972-02-01,2026-07-01,Growth / Activity,Growth / Activity,False
+Manufacturing Production,Building Permits,0.22438877560779988,0.16518485022200544,654,1972-02-01,2026-07-01,Growth / Activity,Growth / Activity,False
+Manufacturing Production,Nonfarm Payroll Employment,0.7399529486365124,0.48752211855038946,654,1972-02-01,2026-07-01,Growth / Activity,Labor,False
+Manufacturing Production,Unemployment Rate,-0.6895593286158255,-0.30173259096201754,652,1972-02-01,2026-07-01,Growth / Activity,Labor,False
+Manufacturing Production,Average Weekly Hours — Total Private,0.30116170188179764,0.4491249789377673,244,2006-04-01,2026-07-01,Growth / Activity,Labor,False
+Manufacturing Production,Average Weekly Hours — Manufacturing,0.6239840922470111,0.5210705757430569,654,1972-02-01,2026-07-01,Growth / Activity,Labor,False
+Manufacturing Production,Job Openings,0.38913264876513437,0.2533620495873801,307,2001-01-01,2026-07-01,Growth / Activity,Labor,False
+Manufacturing Production,Labor Force Participation Rate,0.43914457219305786,0.08851293282357017,652,1972-02-01,2026-07-01,Growth / Activity,Labor,False
+Manufacturing Production,Average Hourly Earnings — Total Private,-0.7274894801038084,-0.0717932874133848,244,2006-04-01,2026-07-01,Growth / Activity,Labor,False
+Manufacturing Production,CPI All Items,0.12070416071568989,0.07140080274356143,652,1972-02-01,2026-07-01,Growth / Activity,Inflation,False
+Manufacturing Production,Core CPI,0.056544211751451565,0.049881585963922316,652,1972-02-01,2026-07-01,Growth / Activity,Inflation,False
+Manufacturing Production,PCE Price Index,0.10026733143247724,0.0659944536073528,654,1972-02-01,2026-07-01,Growth / Activity,Inflation,False
+Manufacturing Production,Core PCE Price Index,0.05919213730774405,0.03712501690495911,654,1972-02-01,2026-07-01,Growth / Activity,Inflation,False
+Manufacturing Production,Producer Prices — Final Demand,0.2808902025900349,0.2027338347005189,200,2009-12-01,2026-07-01,Growth / Activity,Inflation,False
+Manufacturing Production,Producer Prices — All Commodities,0.20599283723621192,0.10925406638097601,654,1972-02-01,2026-07-01,Growth / Activity,Inflation,False
+Manufacturing Production,Commercial & Industrial Loans,-0.3159680719662435,0.02758458190510336,654,1972-02-01,2026-07-01,Growth / Activity,Credit,False
+Manufacturing Production,Consumer Credit,0.23226431240436918,0.19763728462331354,654,1972-02-01,2026-07-01,Growth / Activity,Credit,False
+Manufacturing Production,Federal Funds Rate,0.25734987976808943,0.23766248177481322,654,1972-02-01,2026-07-01,Growth / Activity,Policy / Liquidity,False
+Manufacturing Production,Total Bank Reserves,-0.22716752865983048,-0.026940175700523313,654,1972-02-01,2026-07-01,Growth / Activity,Policy / Liquidity,False
+Manufacturing Production,M2 Money Supply,-0.22515137517685765,0.02261885162340536,654,1972-02-01,2026-07-01,Growth / Activity,Policy / Liquidity,False
+Manufacturing Production,Total Capacity Utilization,0.9384523854007857,0.8564839685419441,654,1972-02-01,2026-07-01,Growth / Activity,External / Structural,True
+Real Personal Consumption Expenditure,Real Personal Income excluding transfers,0.5972610777283346,0.2660902060226323,234,2007-02-01,2026-07-01,Growth / Activity,Growth / Activity,False
+Real Personal Consumption Expenditure,Real Personal Income,-0.11411987360906284,0.1152804216451372,234,2007-02-01,2026-07-01,Growth / Activity,Growth / Activity,False
+Real Personal Consumption Expenditure,Real Retail & Food Services Sales,0.9212848215917803,0.687996478880007,232,2007-02-01,2026-07-01,Growth / Activity,Growth / Activity,True
+Real Personal Consumption Expenditure,Housing Starts,0.33852821075853723,0.17472615186206444,234,2007-02-01,2026-07-01,Growth / Activity,Growth / Activity,False
+Real Personal Consumption Expenditure,Building Permits,0.3528709095855168,0.18640377064265293,234,2007-02-01,2026-07-01,Growth / Activity,Growth / Activity,False
+Real Personal Consumption Expenditure,Nonfarm Payroll Employment,0.7846501749549302,0.2592991156410022,234,2007-02-01,2026-07-01,Growth / Activity,Labor,False
+Real Personal Consumption Expenditure,Unemployment Rate,-0.7635677574136712,-0.14378546821702218,232,2007-02-01,2026-07-01,Growth / Activity,Labor,False
+Real Personal Consumption Expenditure,Average Weekly Hours — Total Private,0.2473785822795372,0.1302733146731171,234,2007-02-01,2026-07-01,Growth / Activity,Labor,False
+Real Personal Consumption Expenditure,Average Weekly Hours — Manufacturing,0.6795562547587989,0.14580515817063577,234,2007-02-01,2026-07-01,Growth / Activity,Labor,False
+Real Personal Consumption Expenditure,Job Openings,0.41666588848894437,0.05403791715544067,234,2007-02-01,2026-07-01,Growth / Activity,Labor,False
+Real Personal Consumption Expenditure,Labor Force Participation Rate,0.6963002917112873,0.11364004661809672,232,2007-02-01,2026-07-01,Growth / Activity,Labor,False
+Real Personal Consumption Expenditure,Average Hourly Earnings — Total Private,-0.7636481982861237,-0.1126313970623423,234,2007-02-01,2026-07-01,Growth / Activity,Labor,False
+Real Personal Consumption Expenditure,CPI All Items,0.2089637008577027,-0.035161227702296224,232,2007-02-01,2026-07-01,Growth / Activity,Inflation,False
+Real Personal Consumption Expenditure,Core CPI,0.19448030766987304,-0.061080476427523935,232,2007-02-01,2026-07-01,Growth / Activity,Inflation,False
+Real Personal Consumption Expenditure,PCE Price Index,0.19913370307534645,-0.07519603642332161,234,2007-02-01,2026-07-01,Growth / Activity,Inflation,False
+Real Personal Consumption Expenditure,Core PCE Price Index,0.22748290244652467,-0.040354586514754535,234,2007-02-01,2026-07-01,Growth / Activity,Inflation,False
+Real Personal Consumption Expenditure,Producer Prices — Final Demand,0.24657975493489423,0.028314902898227457,200,2009-12-01,2026-07-01,Growth / Activity,Inflation,False
+Real Personal Consumption Expenditure,Producer Prices — All Commodities,0.27415987082738774,0.06093631647777413,234,2007-02-01,2026-07-01,Growth / Activity,Inflation,False
+Real Personal Consumption Expenditure,Commercial & Industrial Loans,-0.5341149732095443,-0.1543120988833709,234,2007-02-01,2026-07-01,Growth / Activity,Credit,False
+Real Personal Consumption Expenditure,Consumer Credit,0.14884741843321264,0.06708625134339681,234,2007-02-01,2026-07-01,Growth / Activity,Credit,False
+Real Personal Consumption Expenditure,Federal Funds Rate,0.3100954553086046,0.11252187741407994,234,2007-02-01,2026-07-01,Growth / Activity,Policy / Liquidity,False
+Real Personal Consumption Expenditure,Total Bank Reserves,-0.16186066784126868,-0.031158376825439194,234,2007-02-01,2026-07-01,Growth / Activity,Policy / Liquidity,False
+Real Personal Consumption Expenditure,M2 Money Supply,-0.23713042865851078,-0.02880757874822344,234,2007-02-01,2026-07-01,Growth / Activity,Policy / Liquidity,False
+Real Personal Consumption Expenditure,Total Capacity Utilization,0.7488481930129481,0.33279300866869616,234,2007-02-01,2026-07-01,Growth / Activity,External / Structural,False
+Real Personal Income excluding transfers,Real Personal Income,0.1996610171268745,0.8359507285288303,810,1959-02-01,2026-07-01,Growth / Activity,Growth / Activity,False
+Real Personal Income excluding transfers,Real Retail & Food Services Sales,0.36335419279875153,0.11445633120420085,412,1992-02-01,2026-07-01,Growth / Activity,Growth / Activity,False
+Real Personal Income excluding transfers,Housing Starts,0.17733993756669722,0.0961444792979169,810,1959-02-01,2026-07-01,Growth / Activity,Growth / Activity,False
+Real Personal Income excluding transfers,Building Permits,0.11965264947579357,0.08025409211532851,798,1960-02-01,2026-07-01,Growth / Activity,Growth / Activity,False
+Real Personal Income excluding transfers,Nonfarm Payroll Employment,0.5078177746913345,0.4686552554484071,810,1959-02-01,2026-07-01,Growth / Activity,Labor,False
+Real Personal Income excluding transfers,Unemployment Rate,-0.4648869376569451,-0.27359395153441923,808,1959-02-01,2026-07-01,Growth / Activity,Labor,False
+Real Personal Income excluding transfers,Average Weekly Hours — Total Private,0.17679177187099007,0.15258684445854595,244,2006-04-01,2026-07-01,Growth / Activity,Labor,False
+Real Personal Income excluding transfers,Average Weekly Hours — Manufacturing,0.3335327100104319,0.2586728480772243,810,1959-02-01,2026-07-01,Growth / Activity,Labor,False
+Real Personal Income excluding transfers,Job Openings,0.3776936858400244,0.249233362281839,307,2001-01-01,2026-07-01,Growth / Activity,Labor,False
+Real Personal Income excluding transfers,Labor Force Participation Rate,0.2861923889209689,0.10928192434095932,808,1959-02-01,2026-07-01,Growth / Activity,Labor,False
+Real Personal Income excluding transfers,Average Hourly Earnings — Total Private,-0.4988369134356979,0.004776416300273748,244,2006-04-01,2026-07-01,Growth / Activity,Labor,False
+Real Personal Income excluding transfers,CPI All Items,-0.10308877217206862,-0.21468380685416316,808,1959-02-01,2026-07-01,Growth / Activity,Inflation,False
+Real Personal Income excluding transfers,Core CPI,-0.000141282336895991,-0.040220712711923956,808,1959-02-01,2026-07-01,Growth / Activity,Inflation,False
+Real Personal Income excluding transfers,PCE Price Index,-0.14245034188697367,-0.2626182207849555,810,1959-02-01,2026-07-01,Growth / Activity,Inflation,False
+Real Personal Income excluding transfers,Core PCE Price Index,-0.08679465841345464,-0.15613211714379374,810,1959-02-01,2026-07-01,Growth / Activity,Inflation,False
+Real Personal Income excluding transfers,Producer Prices — Final Demand,0.050226179502563195,-0.15942780668701312,200,2009-12-01,2026-07-01,Growth / Activity,Inflation,False
+Real Personal Income excluding transfers,Producer Prices — All Commodities,-0.06194570491468059,-0.15550407145378103,810,1959-02-01,2026-07-01,Growth / Activity,Inflation,False
+Real Personal Income excluding transfers,Commercial & Industrial Loans,-0.16710759725751875,0.09036717753694917,810,1959-02-01,2026-07-01,Growth / Activity,Credit,False
+Real Personal Income excluding transfers,Consumer Credit,0.1970754177057788,0.22580421326433742,810,1959-02-01,2026-07-01,Growth / Activity,Credit,False
+Real Personal Income excluding transfers,Federal Funds Rate,0.10442080811621275,0.16202945526879675,810,1959-02-01,2026-07-01,Growth / Activity,Policy / Liquidity,False
+Real Personal Income excluding transfers,Total Bank Reserves,-0.05300476822568715,0.0011879857041226028,810,1959-02-01,2026-07-01,Growth / Activity,Policy / Liquidity,False
+Real Personal Income excluding transfers,M2 Money Supply,-0.09787999798329003,0.10206360626619304,810,1959-02-01,2026-07-01,Growth / Activity,Policy / Liquidity,False
+Real Personal Income excluding transfers,Total Capacity Utilization,0.44100238933645797,0.3275571163888607,714,1967-02-01,2026-07-01,Growth / Activity,External / Structural,False
+Real Personal Income,Real Retail & Food Services Sales,0.03360099388546094,0.08190612212383398,412,1992-02-01,2026-07-01,Growth / Activity,Growth / Activity,False
+Real Personal Income,Housing Starts,0.08770072912591007,0.08276035250962786,810,1959-02-01,2026-07-01,Growth / Activity,Growth / Activity,False
+Real Personal Income,Building Permits,0.0027985432061926403,0.058112129710353594,798,1960-02-01,2026-07-01,Growth / Activity,Growth / Activity,False
+Real Personal Income,Nonfarm Payroll Employment,-0.270938193931337,0.3363932599828402,810,1959-02-01,2026-07-01,Growth / Activity,Labor,False
+Real Personal Income,Unemployment Rate,0.3003294346263365,-0.16634418235951037,808,1959-02-01,2026-07-01,Growth / Activity,Labor,False
+Real Personal Income,Average Weekly Hours — Total Private,0.24185964420703224,0.166677776933165,244,2006-04-01,2026-07-01,Growth / Activity,Labor,False
+Real Personal Income,Average Weekly Hours — Manufacturing,-0.06806142562903413,0.17945862430002085,810,1959-02-01,2026-07-01,Growth / Activity,Labor,False
+Real Personal Income,Job Openings,-0.02651887399350727,0.18815533320227706,307,2001-01-01,2026-07-01,Growth / Activity,Labor,False
+Real Personal Income,Labor Force Participation Rate,-0.15623442780240246,0.0803444500141384,808,1959-02-01,2026-07-01,Growth / Activity,Labor,False
+Real Personal Income,Average Hourly Earnings — Total Private,0.24718376001328474,-0.046730732218987485,244,2006-04-01,2026-07-01,Growth / Activity,Labor,False
+Real Personal Income,CPI All Items,-0.12242896491088771,-0.22926548933520066,808,1959-02-01,2026-07-01,Growth / Activity,Inflation,False
+Real Personal Income,Core CPI,-0.09526505380557146,-0.057265420354020394,808,1959-02-01,2026-07-01,Growth / Activity,Inflation,False
+Real Personal Income,PCE Price Index,-0.11248546977502083,-0.25334936192950025,810,1959-02-01,2026-07-01,Growth / Activity,Inflation,False
+Real Personal Income,Core PCE Price Index,-0.09435919993961481,-0.14702475174111315,810,1959-02-01,2026-07-01,Growth / Activity,Inflation,False
+Real Personal Income,Producer Prices — Final Demand,-0.10091953235049285,-0.26271558616866936,200,2009-12-01,2026-07-01,Growth / Activity,Inflation,False
+Real Personal Income,Producer Prices — All Commodities,-0.11269110024344033,-0.17665769776675547,810,1959-02-01,2026-07-01,Growth / Activity,Inflation,False
+Real Personal Income,Commercial & Industrial Loans,0.15837881107690677,0.08099472115573345,810,1959-02-01,2026-07-01,Growth / Activity,Credit,False
+Real Personal Income,Consumer Credit,0.009944447637017555,0.1868058981387915,810,1959-02-01,2026-07-01,Growth / Activity,Credit,False
+Real Personal Income,Federal Funds Rate,0.010617943349712144,0.11861672277007344,810,1959-02-01,2026-07-01,Growth / Activity,Policy / Liquidity,False
+Real Personal Income,Total Bank Reserves,0.0671527033146846,0.020558990334026996,810,1959-02-01,2026-07-01,Growth / Activity,Policy / Liquidity,False
+Real Personal Income,M2 Money Supply,0.11844744170466942,0.08085886813072343,810,1959-02-01,2026-07-01,Growth / Activity,Policy / Liquidity,False
+Real Personal Income,Total Capacity Utilization,-0.02027328539664183,0.22780823069416684,714,1967-02-01,2026-07-01,Growth / Activity,External / Structural,False
+Real Retail & Food Services Sales,Housing Starts,0.30560355919166304,0.20452149566795838,413,1992-02-01,2026-08-01,Growth / Activity,Growth / Activity,False
+Real Retail & Food Services Sales,Building Permits,0.32224771834403004,0.2246839494162347,413,1992-02-01,2026-08-01,Growth / Activity,Growth / Activity,False
+Real Retail & Food Services Sales,Nonfarm Payroll Employment,0.5490333733156305,0.19171129714008822,413,1992-02-01,2026-08-01,Growth / Activity,Labor,False
+Real Retail & Food Services Sales,Unemployment Rate,-0.5175610532140149,0.001038345263919788,413,1992-02-01,2026-08-01,Growth / Activity,Labor,False
+Real Retail & Food Services Sales,Average Weekly Hours — Total Private,0.35426208049320856,0.18495742366687404,243,2006-04-01,2026-08-01,Growth / Activity,Labor,False
+Real Retail & Food Services Sales,Average Weekly Hours — Manufacturing,0.4553760174609087,0.14120952126172484,413,1992-02-01,2026-08-01,Growth / Activity,Labor,False
+Real Retail & Food Services Sales,Job Openings,0.33230893080212826,0.1330038713440295,305,2001-01-01,2026-07-01,Growth / Activity,Labor,False
+Real Retail & Food Services Sales,Labor Force Participation Rate,0.44149729473759974,0.013519206412350344,413,1992-02-01,2026-08-01,Growth / Activity,Labor,False
+Real Retail & Food Services Sales,Average Hourly Earnings — Total Private,-0.6415856536707308,-0.19730151509914695,243,2006-04-01,2026-08-01,Growth / Activity,Labor,False
+Real Retail & Food Services Sales,CPI All Items,0.13095869317058784,0.06440127034094696,413,1992-02-01,2026-08-01,Growth / Activity,Inflation,False
+Real Retail & Food Services Sales,Core CPI,0.02766145323441869,-0.08830059829610465,413,1992-02-01,2026-08-01,Growth / Activity,Inflation,False
+Real Retail & Food Services Sales,PCE Price Index,0.1891542295339303,0.07509365601421109,412,1992-02-01,2026-07-01,Growth / Activity,Inflation,False
+Real Retail & Food Services Sales,Core PCE Price Index,0.19289017317994495,-0.013302949877980162,412,1992-02-01,2026-07-01,Growth / Activity,Inflation,False
+Real Retail & Food Services Sales,Producer Prices — Final Demand,0.2518530754406502,0.18597858701639222,199,2009-12-01,2026-08-01,Growth / Activity,Inflation,False
+Real Retail & Food Services Sales,Producer Prices — All Commodities,0.23756057725592475,0.16877056259273543,413,1992-02-01,2026-08-01,Growth / Activity,Inflation,False
+Real Retail & Food Services Sales,Commercial & Industrial Loans,-0.28820427349803773,-0.03546106690591293,413,1992-02-01,2026-08-01,Growth / Activity,Credit,False
+Real Retail & Food Services Sales,Consumer Credit,0.11033659449567272,0.13436198154111154,412,1992-02-01,2026-07-01,Growth / Activity,Credit,False
+Real Retail & Food Services Sales,Federal Funds Rate,0.1442257203874371,0.017601006588150184,413,1992-02-01,2026-08-01,Growth / Activity,Policy / Liquidity,False
+Real Retail & Food Services Sales,Total Bank Reserves,-0.20221430936909832,-0.0025308693955486666,412,1992-02-01,2026-07-01,Growth / Activity,Policy / Liquidity,False
+Real Retail & Food Services Sales,M2 Money Supply,-0.06346124108780933,-0.040585600906956565,412,1992-02-01,2026-07-01,Growth / Activity,Policy / Liquidity,False
+Real Retail & Food Services Sales,Total Capacity Utilization,0.5331068465054309,0.19768295022411456,412,1992-02-01,2026-07-01,Growth / Activity,External / Structural,False
+Housing Starts,Building Permits,0.3952693378071985,0.3254349291568841,799,1960-02-01,2026-08-01,Growth / Activity,Growth / Activity,False
+Housing Starts,Nonfarm Payroll Employment,0.16749391697309948,0.0928425652170932,811,1959-02-01,2026-08-01,Growth / Activity,Labor,False
+Housing Starts,Unemployment Rate,-0.15222234923074213,-0.06986119501986318,809,1959-02-01,2026-08-01,Growth / Activity,Labor,False
+Housing Starts,Average Weekly Hours — Total Private,0.1229349301878926,0.05830673722938463,245,2006-04-01,2026-08-01,Growth / Activity,Labor,False
+Housing Starts,Average Weekly Hours — Manufacturing,0.21777058549162764,0.16244593164528154,811,1959-02-01,2026-08-01,Growth / Activity,Labor,False
+Housing Starts,Job Openings,0.1560232481477586,0.08659709969536718,307,2001-01-01,2026-07-01,Growth / Activity,Labor,False
+Housing Starts,Labor Force Participation Rate,0.12951509694232105,0.03725942626730746,809,1959-02-01,2026-08-01,Growth / Activity,Labor,False
+Housing Starts,Average Hourly Earnings — Total Private,-0.29640063337079786,-0.23048395695939244,245,2006-04-01,2026-08-01,Growth / Activity,Labor,False
+Housing Starts,CPI All Items,0.001884618030997827,-0.033322015007957784,809,1959-02-01,2026-08-01,Growth / Activity,Inflation,False
+Housing Starts,Core CPI,-0.033200498529774296,-0.020418156574049693,809,1959-02-01,2026-08-01,Growth / Activity,Inflation,False
+Housing Starts,PCE Price Index,0.014042380798450521,-0.015683701346201815,810,1959-02-01,2026-07-01,Growth / Activity,Inflation,False
+Housing Starts,Core PCE Price Index,0.002477991163320488,-0.010322257865497642,810,1959-02-01,2026-07-01,Growth / Activity,Inflation,False
+Housing Starts,Producer Prices — Final Demand,0.10655292128393387,0.1072186872395627,201,2009-12-01,2026-08-01,Growth / Activity,Inflation,False
+Housing Starts,Producer Prices — All Commodities,0.025918768859365237,0.011491043667536043,811,1959-02-01,2026-08-01,Growth / Activity,Inflation,False
+Housing Starts,Commercial & Industrial Loans,-0.1359366735073559,-0.08159513379530957,811,1959-02-01,2026-08-01,Growth / Activity,Credit,False
+Housing Starts,Consumer Credit,0.06147109289211669,0.040845083048340114,810,1959-02-01,2026-07-01,Growth / Activity,Credit,False
+Housing Starts,Federal Funds Rate,-0.005736950415849165,-0.022039605398514295,811,1959-02-01,2026-08-01,Growth / Activity,Policy / Liquidity,False
+Housing Starts,Total Bank Reserves,-0.08742604912591039,-0.03325619714116369,810,1959-02-01,2026-07-01,Growth / Activity,Policy / Liquidity,False
+Housing Starts,M2 Money Supply,0.012122123082339387,0.05501906394455342,810,1959-02-01,2026-07-01,Growth / Activity,Policy / Liquidity,False
+Housing Starts,Total Capacity Utilization,0.2364490827364121,0.13157630171724685,714,1967-02-01,2026-07-01,Growth / Activity,External / Structural,False
+Building Permits,Nonfarm Payroll Employment,0.15575082783958302,0.09745117538403199,799,1960-02-01,2026-08-01,Growth / Activity,Labor,False
+Building Permits,Unemployment Rate,-0.15700383786182673,-0.053839170208671655,797,1960-02-01,2026-08-01,Growth / Activity,Labor,False
+Building Permits,Average Weekly Hours — Total Private,0.11579622122873288,0.03122898727563357,245,2006-04-01,2026-08-01,Growth / Activity,Labor,False
+Building Permits,Average Weekly Hours — Manufacturing,0.21504713986276155,0.16827569481697724,799,1960-02-01,2026-08-01,Growth / Activity,Labor,False
+Building Permits,Job Openings,0.122242548470594,0.09120522118288509,307,2001-01-01,2026-07-01,Growth / Activity,Labor,False
+Building Permits,Labor Force Participation Rate,0.14458201958829495,0.047114978656568336,797,1960-02-01,2026-08-01,Growth / Activity,Labor,False
+Building Permits,Average Hourly Earnings — Total Private,-0.3166813276581637,-0.20278324505434325,245,2006-04-01,2026-08-01,Growth / Activity,Labor,False
+Building Permits,CPI All Items,-0.012541196020107876,-0.03501987093561086,797,1960-02-01,2026-08-01,Growth / Activity,Inflation,False
+Building Permits,Core CPI,-0.07467739488169724,-0.05912835266578047,797,1960-02-01,2026-08-01,Growth / Activity,Inflation,False
+Building Permits,PCE Price Index,0.016358912096957643,-0.003319613698336561,798,1960-02-01,2026-07-01,Growth / Activity,Inflation,False
+Building Permits,Core PCE Price Index,-0.014925697569105634,-0.010626744938220618,798,1960-02-01,2026-07-01,Growth / Activity,Inflation,False
+Building Permits,Producer Prices — Final Demand,0.09207890080369459,0.0626952785471876,201,2009-12-01,2026-08-01,Growth / Activity,Inflation,False
+Building Permits,Producer Prices — All Commodities,0.053380687084804125,-0.011262537084320151,799,1960-02-01,2026-08-01,Growth / Activity,Inflation,False
+Building Permits,Commercial & Industrial Loans,-0.146594577735158,-0.09935214187353973,799,1960-02-01,2026-08-01,Growth / Activity,Credit,False
+Building Permits,Consumer Credit,0.04601122988457113,0.01743680911967243,798,1960-02-01,2026-07-01,Growth / Activity,Credit,False
+Building Permits,Federal Funds Rate,-0.09549442265124992,-0.04420019916487305,799,1960-02-01,2026-08-01,Growth / Activity,Policy / Liquidity,False
+Building Permits,Total Bank Reserves,-0.1244948566803566,-0.02277753749340101,798,1960-02-01,2026-07-01,Growth / Activity,Policy / Liquidity,False
+Building Permits,M2 Money Supply,0.08498161822897386,0.15999077440366,798,1960-02-01,2026-07-01,Growth / Activity,Policy / Liquidity,False
+Building Permits,Total Capacity Utilization,0.21154633446578283,0.15758070731321752,714,1967-02-01,2026-07-01,Growth / Activity,External / Structural,False
+Nonfarm Payroll Employment,Unemployment Rate,-0.8785816838019592,-0.4281452417923607,941,1948-02-01,2026-08-01,Labor,Labor,False
+Nonfarm Payroll Employment,Average Weekly Hours — Total Private,0.016112715715103882,0.19415862091300556,245,2006-04-01,2026-08-01,Labor,Labor,False
+Nonfarm Payroll Employment,Average Weekly Hours — Manufacturing,0.3719502849051045,0.2365522476765051,1051,1939-02-01,2026-08-01,Labor,Labor,False
+Nonfarm Payroll Employment,Job Openings,0.3343775935957078,0.3273889360304382,307,2001-01-01,2026-07-01,Labor,Labor,False
+Nonfarm Payroll Employment,Labor Force Participation Rate,0.4046080033555916,0.1483227093361454,941,1948-02-01,2026-08-01,Labor,Labor,False
+Nonfarm Payroll Employment,Average Hourly Earnings — Total Private,-0.8469216949745176,-0.06697723986871722,245,2006-04-01,2026-08-01,Labor,Labor,False
+Nonfarm Payroll Employment,CPI All Items,0.1547721624546036,0.12415983003919594,953,1947-02-01,2026-08-01,Labor,Inflation,False
+Nonfarm Payroll Employment,Core CPI,0.12413484844660697,0.1604846557245943,833,1957-02-01,2026-08-01,Labor,Inflation,False
+Nonfarm Payroll Employment,PCE Price Index,0.12956302000100492,0.10603780506787354,810,1959-02-01,2026-07-01,Labor,Inflation,False
+Nonfarm Payroll Employment,Core PCE Price Index,0.11108595353936179,0.11575460636501729,810,1959-02-01,2026-07-01,Labor,Inflation,False
+Nonfarm Payroll Employment,Producer Prices — Final Demand,0.2729353863807038,0.21321744372117413,201,2009-12-01,2026-08-01,Labor,Inflation,False
+Nonfarm Payroll Employment,Producer Prices — All Commodities,0.2468602939209736,0.17596946442468267,1051,1939-02-01,2026-08-01,Labor,Inflation,False
+Nonfarm Payroll Employment,Commercial & Industrial Loans,-0.24116667206313133,0.28656294759452783,955,1947-02-01,2026-08-01,Labor,Credit,False
+Nonfarm Payroll Employment,Consumer Credit,0.2537308148444412,0.4332532454418891,1002,1943-02-01,2026-07-01,Labor,Credit,False
+Nonfarm Payroll Employment,Federal Funds Rate,0.1538647425346835,0.33918795107093064,865,1954-08-01,2026-08-01,Labor,Policy / Liquidity,False
+Nonfarm Payroll Employment,Total Bank Reserves,-0.19057818306802268,-0.016252680467754372,810,1959-02-01,2026-07-01,Labor,Policy / Liquidity,False
+Nonfarm Payroll Employment,M2 Money Supply,-0.34411652218402644,0.09285440432828991,810,1959-02-01,2026-07-01,Labor,Policy / Liquidity,False
+Nonfarm Payroll Employment,Total Capacity Utilization,0.6771454014703089,0.40028805451524563,714,1967-02-01,2026-07-01,Labor,External / Structural,False
+Unemployment Rate,Average Weekly Hours — Total Private,-0.02323061069246296,-0.12721580067531238,243,2006-04-01,2026-08-01,Labor,Labor,False
+Unemployment Rate,Average Weekly Hours — Manufacturing,-0.39253870590638573,-0.16373846459649158,941,1948-02-01,2026-08-01,Labor,Labor,False
+Unemployment Rate,Job Openings,-0.3069816951047804,-0.18902888326362557,305,2001-01-01,2026-07-01,Labor,Labor,False
+Unemployment Rate,Labor Force Participation Rate,-0.293734662120432,0.16198610344941722,941,1948-02-01,2026-08-01,Labor,Labor,False
+Unemployment Rate,Average Hourly Earnings — Total Private,0.8290332372229251,0.053461514252510195,243,2006-04-01,2026-08-01,Labor,Labor,False
+Unemployment Rate,CPI All Items,-0.11415393713740837,-0.011240377281383952,941,1948-02-01,2026-08-01,Labor,Inflation,False
+Unemployment Rate,Core CPI,-0.06615028315456079,0.037387675184770666,833,1957-02-01,2026-08-01,Labor,Inflation,False
+Unemployment Rate,PCE Price Index,-0.0727297111309741,0.04199410664505837,808,1959-02-01,2026-07-01,Labor,Inflation,False
+Unemployment Rate,Core PCE Price Index,-0.057266907168516575,0.05733487969442368,808,1959-02-01,2026-07-01,Labor,Inflation,False
+Unemployment Rate,Producer Prices — Final Demand,-0.25740323390843134,-0.11202028445065432,199,2009-12-01,2026-08-01,Labor,Inflation,False
+Unemployment Rate,Producer Prices — All Commodities,-0.19091771717116093,-0.053012308543019956,941,1948-02-01,2026-08-01,Labor,Inflation,False
+Unemployment Rate,Commercial & Industrial Loans,0.3218689322940524,-0.1076360556241418,941,1948-02-01,2026-08-01,Labor,Credit,False
+Unemployment Rate,Consumer Credit,-0.17995144684990227,-0.15494046390400562,940,1948-02-01,2026-07-01,Labor,Credit,False
+Unemployment Rate,Federal Funds Rate,-0.13051334348146537,-0.1671512558763833,863,1954-08-01,2026-08-01,Labor,Policy / Liquidity,False
+Unemployment Rate,Total Bank Reserves,0.16382377014128344,-0.009344530497232934,808,1959-02-01,2026-07-01,Labor,Policy / Liquidity,False
+Unemployment Rate,M2 Money Supply,0.3292301348990075,-0.03366818823550429,808,1959-02-01,2026-07-01,Labor,Policy / Liquidity,False
+Unemployment Rate,Total Capacity Utilization,-0.6386281358729581,-0.33270200923091936,712,1967-02-01,2026-07-01,Labor,External / Structural,False
+Average Weekly Hours — Total Private,Average Weekly Hours — Manufacturing,0.38027843063452,0.531064525100319,245,2006-04-01,2026-08-01,Labor,Labor,False
+Average Weekly Hours — Total Private,Job Openings,0.31481043907189243,0.3100313258392765,244,2006-04-01,2026-07-01,Labor,Labor,False
+Average Weekly Hours — Total Private,Labor Force Participation Rate,0.04954635602337325,0.07183396810919515,243,2006-04-01,2026-08-01,Labor,Labor,False
+Average Weekly Hours — Total Private,Average Hourly Earnings — Total Private,-0.07570968989076188,-0.06461700602108217,245,2006-04-01,2026-08-01,Labor,Labor,False
+Average Weekly Hours — Total Private,CPI All Items,0.09567826151819596,0.08334792598804827,243,2006-04-01,2026-08-01,Labor,Inflation,False
+Average Weekly Hours — Total Private,Core CPI,-0.12673086742752976,-0.11881690050334455,243,2006-04-01,2026-08-01,Labor,Inflation,False
+Average Weekly Hours — Total Private,PCE Price Index,0.0879458569044636,0.04912481210015716,244,2006-04-01,2026-07-01,Labor,Inflation,False
+Average Weekly Hours — Total Private,Core PCE Price Index,-0.06700492030931073,-0.09443649365873356,244,2006-04-01,2026-07-01,Labor,Inflation,False
+Average Weekly Hours — Total Private,Producer Prices — Final Demand,0.08460348120210946,0.13481270916991478,201,2009-12-01,2026-08-01,Labor,Inflation,False
+Average Weekly Hours — Total Private,Producer Prices — All Commodities,0.12245420111040677,0.13851590176444573,245,2006-04-01,2026-08-01,Labor,Inflation,False
+Average Weekly Hours — Total Private,Commercial & Industrial Loans,0.0747984264872367,0.03150664972911323,245,2006-04-01,2026-08-01,Labor,Credit,False
+Average Weekly Hours — Total Private,Consumer Credit,0.011463507000029478,0.011100466250505021,244,2006-04-01,2026-07-01,Labor,Credit,False
+Average Weekly Hours — Total Private,Federal Funds Rate,0.037340482462102795,-0.05103663788917018,245,2006-04-01,2026-08-01,Labor,Policy / Liquidity,False
+Average Weekly Hours — Total Private,Total Bank Reserves,-0.03056281970869264,-0.022530178946026616,244,2006-04-01,2026-07-01,Labor,Policy / Liquidity,False
+Average Weekly Hours — Total Private,M2 Money Supply,0.14863069844295923,0.06955188842171776,244,2006-04-01,2026-07-01,Labor,Policy / Liquidity,False
+Average Weekly Hours — Total Private,Total Capacity Utilization,0.23251656457353023,0.3327415954446092,244,2006-04-01,2026-07-01,Labor,External / Structural,False
+Average Weekly Hours — Manufacturing,Job Openings,0.32487801374238084,0.1628661920640339,307,2001-01-01,2026-07-01,Labor,Labor,False
+Average Weekly Hours — Manufacturing,Labor Force Participation Rate,0.25401876375458665,0.09541120473202187,941,1948-02-01,2026-08-01,Labor,Labor,False
+Average Weekly Hours — Manufacturing,Average Hourly Earnings — Total Private,-0.6890722412572714,-0.11223489938114378,245,2006-04-01,2026-08-01,Labor,Labor,False
+Average Weekly Hours — Manufacturing,CPI All Items,0.05561853513873452,0.016969580337386242,953,1947-02-01,2026-08-01,Labor,Inflation,False
+Average Weekly Hours — Manufacturing,Core CPI,0.03990204081712142,-0.014647420832310111,833,1957-02-01,2026-08-01,Labor,Inflation,False
+Average Weekly Hours — Manufacturing,PCE Price Index,0.054047451657555964,0.024781378288901642,810,1959-02-01,2026-07-01,Labor,Inflation,False
+Average Weekly Hours — Manufacturing,Core PCE Price Index,0.02001721907017684,-0.0076312657458160816,810,1959-02-01,2026-07-01,Labor,Inflation,False
+Average Weekly Hours — Manufacturing,Producer Prices — Final Demand,0.27837276642395453,0.15896309870737557,201,2009-12-01,2026-08-01,Labor,Inflation,False
+Average Weekly Hours — Manufacturing,Producer Prices — All Commodities,0.1172730886403176,0.08584494928814788,1051,1939-02-01,2026-08-01,Labor,Inflation,False
+Average Weekly Hours — Manufacturing,Commercial & Industrial Loans,-0.15879010880685274,-0.017007966250268212,955,1947-02-01,2026-08-01,Labor,Credit,False
+Average Weekly Hours — Manufacturing,Consumer Credit,0.039457149556572334,0.009687490453201796,1002,1943-02-01,2026-07-01,Labor,Credit,False
+Average Weekly Hours — Manufacturing,Federal Funds Rate,0.13287957437239126,0.12743294142689246,865,1954-08-01,2026-08-01,Labor,Policy / Liquidity,False
+Average Weekly Hours — Manufacturing,Total Bank Reserves,-0.12942442541171492,-0.08939743936890904,810,1959-02-01,2026-07-01,Labor,Policy / Liquidity,False
+Average Weekly Hours — Manufacturing,M2 Money Supply,-0.1299750982577365,0.02116627104042846,810,1959-02-01,2026-07-01,Labor,Policy / Liquidity,False
+Average Weekly Hours — Manufacturing,Total Capacity Utilization,0.5666366785991844,0.4469066731577638,714,1967-02-01,2026-07-01,Labor,External / Structural,False
+Job Openings,Labor Force Participation Rate,0.3112883396333262,0.14555006488403527,305,2001-01-01,2026-07-01,Labor,Labor,False
+Job Openings,Average Hourly Earnings — Total Private,-0.3005026208864948,-0.0368152488478035,244,2006-04-01,2026-07-01,Labor,Labor,False
+Job Openings,CPI All Items,0.1173221354593566,0.08586983990370047,305,2001-01-01,2026-07-01,Labor,Inflation,False
+Job Openings,Core CPI,0.0735775303755275,-0.004751393506654871,305,2001-01-01,2026-07-01,Labor,Inflation,False
+Job Openings,PCE Price Index,0.0957021892455188,0.06557065317975867,307,2001-01-01,2026-07-01,Labor,Inflation,False
+Job Openings,Core PCE Price Index,0.04100629100232384,-0.0017120262377974583,307,2001-01-01,2026-07-01,Labor,Inflation,False
+Job Openings,Producer Prices — Final Demand,0.2938363594155655,0.20542349171074495,200,2009-12-01,2026-07-01,Labor,Inflation,False
+Job Openings,Producer Prices — All Commodities,0.2118472659635792,0.18425917055299523,307,2001-01-01,2026-07-01,Labor,Inflation,False
+Job Openings,Commercial & Industrial Loans,-0.16294445698566926,-0.012582231589704286,307,2001-01-01,2026-07-01,Labor,Credit,False
+Job Openings,Consumer Credit,0.09060554060230425,0.12867610769507684,307,2001-01-01,2026-07-01,Labor,Credit,False
+Job Openings,Federal Funds Rate,0.1664405802711169,0.08938558251122346,307,2001-01-01,2026-07-01,Labor,Policy / Liquidity,False
+Job Openings,Total Bank Reserves,-0.07782653993159477,0.0165771702829845,307,2001-01-01,2026-07-01,Labor,Policy / Liquidity,False
+Job Openings,M2 Money Supply,-0.03331409587644981,0.08251360953027939,307,2001-01-01,2026-07-01,Labor,Policy / Liquidity,False
+Job Openings,Total Capacity Utilization,0.34757408392030065,0.1849764274923806,307,2001-01-01,2026-07-01,Labor,External / Structural,False
+Labor Force Participation Rate,Average Hourly Earnings — Total Private,-0.6638326995424982,0.008262657701755542,243,2006-04-01,2026-08-01,Labor,Labor,False
+Labor Force Participation Rate,CPI All Items,0.09400078154167278,0.08054888290682946,941,1948-02-01,2026-08-01,Labor,Inflation,False
+Labor Force Participation Rate,Core CPI,0.10308219074819068,0.110412221573676,833,1957-02-01,2026-08-01,Labor,Inflation,False
+Labor Force Participation Rate,PCE Price Index,0.1280783377051994,0.11928001112279897,808,1959-02-01,2026-07-01,Labor,Inflation,False
+Labor Force Participation Rate,Core PCE Price Index,0.1142522812718365,0.12388697402599129,808,1959-02-01,2026-07-01,Labor,Inflation,False
+Labor Force Participation Rate,Producer Prices — Final Demand,0.23971688736311084,0.07604105273284278,199,2009-12-01,2026-08-01,Labor,Inflation,False
+Labor Force Participation Rate,Producer Prices — All Commodities,0.11147308787497087,0.05294236390864601,941,1948-02-01,2026-08-01,Labor,Inflation,False
+Labor Force Participation Rate,Commercial & Industrial Loans,-0.15335853264158436,0.023637891021071417,941,1948-02-01,2026-08-01,Labor,Credit,False
+Labor Force Participation Rate,Consumer Credit,0.11805984060351014,0.07935298837452223,940,1948-02-01,2026-07-01,Labor,Credit,False
+Labor Force Participation Rate,Federal Funds Rate,0.04719375235939425,0.12744692161853619,863,1954-08-01,2026-08-01,Labor,Policy / Liquidity,False
+Labor Force Participation Rate,Total Bank Reserves,-0.09438631312430584,-0.03982795363947908,808,1959-02-01,2026-07-01,Labor,Policy / Liquidity,False
+Labor Force Participation Rate,M2 Money Supply,-0.19473048403149898,0.0008703371594870331,808,1959-02-01,2026-07-01,Labor,Policy / Liquidity,False
+Labor Force Participation Rate,Total Capacity Utilization,0.35335291921285933,0.06129791597495112,712,1967-02-01,2026-07-01,Labor,External / Structural,False
+Average Hourly Earnings — Total Private,CPI All Items,-0.11821560185292994,0.12762229575319384,243,2006-04-01,2026-08-01,Labor,Inflation,False
+Average Hourly Earnings — Total Private,Core CPI,-0.07785871111631516,0.23845955703193766,243,2006-04-01,2026-08-01,Labor,Inflation,False
+Average Hourly Earnings — Total Private,PCE Price Index,-0.07894122588095925,0.14783760185568842,244,2006-04-01,2026-07-01,Labor,Inflation,False
+Average Hourly Earnings — Total Private,Core PCE Price Index,-0.0677818774278459,0.21365830368433106,244,2006-04-01,2026-07-01,Labor,Inflation,False
+Average Hourly Earnings — Total Private,Producer Prices — Final Demand,-0.15805842838196746,0.04973666758785496,201,2009-12-01,2026-08-01,Labor,Inflation,False
+Average Hourly Earnings — Total Private,Producer Prices — All Commodities,-0.18901166762888374,-0.020599363635494146,245,2006-04-01,2026-08-01,Labor,Inflation,False
+Average Hourly Earnings — Total Private,Commercial & Industrial Loans,0.4892904136007625,0.021602218241505756,245,2006-04-01,2026-08-01,Labor,Credit,False
+Average Hourly Earnings — Total Private,Consumer Credit,-0.1235361246062711,-0.002640989780694426,244,2006-04-01,2026-07-01,Labor,Credit,False
+Average Hourly Earnings — Total Private,Federal Funds Rate,-0.1958004356686028,-0.04399857980361011,245,2006-04-01,2026-08-01,Labor,Policy / Liquidity,False
+Average Hourly Earnings — Total Private,Total Bank Reserves,0.10484167485085234,-0.037144450897179306,244,2006-04-01,2026-07-01,Labor,Policy / Liquidity,False
+Average Hourly Earnings — Total Private,M2 Money Supply,0.33631179448879694,-0.06920268874204988,244,2006-04-01,2026-07-01,Labor,Policy / Liquidity,False
+Average Hourly Earnings — Total Private,Total Capacity Utilization,-0.6826167127931392,-0.11713333181263427,244,2006-04-01,2026-07-01,Labor,External / Structural,False
+CPI All Items,Core CPI,0.6788806538636484,0.6085934451726224,833,1957-02-01,2026-08-01,Inflation,Inflation,False
+CPI All Items,PCE Price Index,0.9112860212995306,0.8826222816387131,808,1959-02-01,2026-07-01,Inflation,Inflation,True
+CPI All Items,Core PCE Price Index,0.6600767843777489,0.6247289387579102,808,1959-02-01,2026-07-01,Inflation,Inflation,False
+CPI All Items,Producer Prices — Final Demand,0.666551411246557,0.5991035941537977,199,2009-12-01,2026-08-01,Inflation,Inflation,False
+CPI All Items,Producer Prices — All Commodities,0.628779899887736,0.5709536332535948,953,1947-02-01,2026-08-01,Inflation,Inflation,False
+CPI All Items,Commercial & Industrial Loans,0.12833645155633697,0.185067511156064,953,1947-02-01,2026-08-01,Inflation,Credit,False
+CPI All Items,Consumer Credit,0.1339916869168439,0.07128346591998878,952,1947-02-01,2026-07-01,Inflation,Credit,False
+CPI All Items,Federal Funds Rate,0.07268946611435008,0.10739075770560234,863,1954-08-01,2026-08-01,Inflation,Policy / Liquidity,False
+CPI All Items,Total Bank Reserves,-0.22207563612008488,0.01876611302714258,808,1959-02-01,2026-07-01,Inflation,Policy / Liquidity,False
+CPI All Items,M2 Money Supply,-0.08251721005083751,0.032209850285683746,808,1959-02-01,2026-07-01,Inflation,Policy / Liquidity,False
+CPI All Items,Total Capacity Utilization,0.07250282232443807,0.01654573458392771,712,1967-02-01,2026-07-01,Inflation,External / Structural,False
+Core CPI,PCE Price Index,0.6510270525516043,0.5930606574812634,808,1959-02-01,2026-07-01,Inflation,Inflation,False
+Core CPI,Core PCE Price Index,0.7766688298528464,0.7448162366222657,808,1959-02-01,2026-07-01,Inflation,Inflation,False
+Core CPI,Producer Prices — Final Demand,0.3414931446907552,0.18943994991669566,199,2009-12-01,2026-08-01,Inflation,Inflation,False
+Core CPI,Producer Prices — All Commodities,0.22804085123888865,0.1686477044585327,833,1957-02-01,2026-08-01,Inflation,Inflation,False
+Core CPI,Commercial & Industrial Loans,0.04690592823137368,0.08673960330154595,833,1957-02-01,2026-08-01,Inflation,Credit,False
+Core CPI,Consumer Credit,0.10196022089919612,0.1262744381743615,832,1957-02-01,2026-07-01,Inflation,Credit,False
+Core CPI,Federal Funds Rate,0.08785987118034047,0.09914229201680272,833,1957-02-01,2026-08-01,Inflation,Policy / Liquidity,False
+Core CPI,Total Bank Reserves,-0.08433507502020103,-0.016596014138768208,808,1959-02-01,2026-07-01,Inflation,Policy / Liquidity,False
+Core CPI,M2 Money Supply,-0.04320515111880654,0.05114059655479749,808,1959-02-01,2026-07-01,Inflation,Policy / Liquidity,False
+Core CPI,Total Capacity Utilization,0.026062102261903107,-0.02470861141405185,712,1967-02-01,2026-07-01,Inflation,External / Structural,False
+PCE Price Index,Core PCE Price Index,0.8306264240669015,0.8116207465217282,810,1959-02-01,2026-07-01,Inflation,Inflation,True
+PCE Price Index,Producer Prices — Final Demand,0.7330845307753344,0.6873273731182319,200,2009-12-01,2026-07-01,Inflation,Inflation,False
+PCE Price Index,Producer Prices — All Commodities,0.6195002613184067,0.5673441432400853,810,1959-02-01,2026-07-01,Inflation,Inflation,False
+PCE Price Index,Commercial & Industrial Loans,0.06948887134138872,0.12895629806898043,810,1959-02-01,2026-07-01,Inflation,Credit,False
+PCE Price Index,Consumer Credit,0.1314327419261388,0.09937397318875657,810,1959-02-01,2026-07-01,Inflation,Credit,False
+PCE Price Index,Federal Funds Rate,0.08193747628977024,0.1357074329309707,810,1959-02-01,2026-07-01,Inflation,Policy / Liquidity,False
+PCE Price Index,Total Bank Reserves,-0.23065600429193908,-0.010018911500198098,810,1959-02-01,2026-07-01,Inflation,Policy / Liquidity,False
+PCE Price Index,M2 Money Supply,-0.035938593891352455,0.06600430236573666,810,1959-02-01,2026-07-01,Inflation,Policy / Liquidity,False
+PCE Price Index,Total Capacity Utilization,0.05751593068160759,0.017741043284531726,714,1967-02-01,2026-07-01,Inflation,External / Structural,False
+Core PCE Price Index,Producer Prices — Final Demand,0.536217923135199,0.47014094473950724,200,2009-12-01,2026-07-01,Inflation,Inflation,False
+Core PCE Price Index,Producer Prices — All Commodities,0.30561083546659157,0.2699348594408816,810,1959-02-01,2026-07-01,Inflation,Inflation,False
+Core PCE Price Index,Commercial & Industrial Loans,0.05299123663421378,0.10430563409214497,810,1959-02-01,2026-07-01,Inflation,Credit,False
+Core PCE Price Index,Consumer Credit,0.09151753520382246,0.0832371108402622,810,1959-02-01,2026-07-01,Inflation,Credit,False
+Core PCE Price Index,Federal Funds Rate,0.0564506777183369,0.1122888098892614,810,1959-02-01,2026-07-01,Inflation,Policy / Liquidity,False
+Core PCE Price Index,Total Bank Reserves,-0.1457899420476925,-0.020163115533537092,810,1959-02-01,2026-07-01,Inflation,Policy / Liquidity,False
+Core PCE Price Index,M2 Money Supply,0.009742835220203484,0.09210354654643384,810,1959-02-01,2026-07-01,Inflation,Policy / Liquidity,False
+Core PCE Price Index,Total Capacity Utilization,0.025936379787630783,-0.016819251767064093,714,1967-02-01,2026-07-01,Inflation,External / Structural,False
+Producer Prices — Final Demand,Producer Prices — All Commodities,0.8148299672153587,0.7793088724877301,201,2009-12-01,2026-08-01,Inflation,Inflation,True
+Producer Prices — Final Demand,Commercial & Industrial Loans,-0.23606241367543807,-0.0836668562408113,201,2009-12-01,2026-08-01,Inflation,Credit,False
+Producer Prices — Final Demand,Consumer Credit,0.14390148327234523,0.04112790086412027,200,2009-12-01,2026-07-01,Inflation,Credit,False
+Producer Prices — Final Demand,Federal Funds Rate,0.1212060928251608,0.016723508703233258,201,2009-12-01,2026-08-01,Inflation,Policy / Liquidity,False
+Producer Prices — Final Demand,Total Bank Reserves,-0.14705705910795633,-0.062058622706665775,200,2009-12-01,2026-07-01,Inflation,Policy / Liquidity,False
+Producer Prices — Final Demand,M2 Money Supply,-0.09258894623280722,0.02083921650087022,200,2009-12-01,2026-07-01,Inflation,Policy / Liquidity,False
+Producer Prices — Final Demand,Total Capacity Utilization,0.29833071251285853,0.19440542142436865,200,2009-12-01,2026-07-01,Inflation,External / Structural,False
+Producer Prices — All Commodities,Commercial & Industrial Loans,0.03292646037900039,0.1373993433126631,955,1947-02-01,2026-08-01,Inflation,Credit,False
+Producer Prices — All Commodities,Consumer Credit,0.1969419626102434,0.11171822479595701,1002,1943-02-01,2026-07-01,Inflation,Credit,False
+Producer Prices — All Commodities,Federal Funds Rate,0.09194567666688681,0.1429093067610054,865,1954-08-01,2026-08-01,Inflation,Policy / Liquidity,False
+Producer Prices — All Commodities,Total Bank Reserves,-0.27625262879694024,-0.00844681256740888,810,1959-02-01,2026-07-01,Inflation,Policy / Liquidity,False
+Producer Prices — All Commodities,M2 Money Supply,-0.06842825969703098,0.001408617494304007,810,1959-02-01,2026-07-01,Inflation,Policy / Liquidity,False
+Producer Prices — All Commodities,Total Capacity Utilization,0.1808445263300406,0.1040837272352677,714,1967-02-01,2026-07-01,Inflation,External / Structural,False
+Commercial & Industrial Loans,Consumer Credit,0.1984012656750437,0.32179522409515116,954,1947-02-01,2026-07-01,Credit,Credit,False
+Commercial & Industrial Loans,Federal Funds Rate,0.14320513349222724,0.28559698745471357,865,1954-08-01,2026-08-01,Credit,Policy / Liquidity,False
+Commercial & Industrial Loans,Total Bank Reserves,0.15054802138631712,0.00806189287316769,810,1959-02-01,2026-07-01,Credit,Policy / Liquidity,False
+Commercial & Industrial Loans,M2 Money Supply,0.3457328843401355,0.10459389289654905,810,1959-02-01,2026-07-01,Credit,Policy / Liquidity,False
+Commercial & Industrial Loans,Total Capacity Utilization,-0.32659894691098124,-0.03895708605865611,714,1967-02-01,2026-07-01,Credit,External / Structural,False
+Consumer Credit,Federal Funds Rate,0.16419692580964398,0.25230473478137044,864,1954-08-01,2026-07-01,Credit,Policy / Liquidity,False
+Consumer Credit,Total Bank Reserves,-0.08928416231726113,0.017702576723099505,810,1959-02-01,2026-07-01,Credit,Policy / Liquidity,False
+Consumer Credit,M2 Money Supply,-0.03386952363735437,0.15750338805296257,810,1959-02-01,2026-07-01,Credit,Policy / Liquidity,False
+Consumer Credit,Total Capacity Utilization,0.2083421731651013,0.13092484043675537,714,1967-02-01,2026-07-01,Credit,External / Structural,False
+Federal Funds Rate,Total Bank Reserves,-0.07315115301117733,-0.07698929396918237,810,1959-02-01,2026-07-01,Policy / Liquidity,Policy / Liquidity,False
+Federal Funds Rate,M2 Money Supply,-0.1334671560296484,-0.1673890399846995,810,1959-02-01,2026-07-01,Policy / Liquidity,Policy / Liquidity,False
+Federal Funds Rate,Total Capacity Utilization,0.23716669013115924,0.21903789041609598,714,1967-02-01,2026-07-01,Policy / Liquidity,External / Structural,False
+Total Bank Reserves,M2 Money Supply,0.20125192526747585,0.12452443910468826,810,1959-02-01,2026-07-01,Policy / Liquidity,Policy / Liquidity,False
+Total Bank Reserves,Total Capacity Utilization,-0.17890575325543892,-0.020112317365034396,714,1967-02-01,2026-07-01,Policy / Liquidity,External / Structural,False
+M2 Money Supply,Total Capacity Utilization,-0.23912859976735584,-0.017629694733339,714,1967-02-01,2026-07-01,Policy / Liquidity,External / Structural,False

@@ -1,0 +1,10 @@
+{
+  "monthly_series": 27,
+  "screened_pairs": 351,
+  "candidate_pairs": 7,
+  "connected_series": 10,
+  "unconnected_series": 17,
+  "strong_pearson_pairs_failing_rank_screen": 4,
+  "frequency_exclusions": "Initial Claims, SLOOS: Banks Tightening C&I Lending Standards, SLOOS: Stronger Demand for C&I Loans, Delinquency Rate on Business Loans, Reserve Balances with Federal Reserve Banks, Federal Reserve Total Assets, Real Exports of Goods and Services, Real Imports of Goods and Services, Nonfarm Business Sector Labor Productivity",
+  "interpretation": "Candidates warrant joint economic review; correlated series are not automatically interchangeable."
+}

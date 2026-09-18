@@ -1,0 +1,28 @@
+Dataset,Category,Transformation,Change unit
+Industrial Production,Growth / Activity,One-month percentage change,percent
+Manufacturing Production,Growth / Activity,One-month percentage change,percent
+Real Personal Consumption Expenditure,Growth / Activity,One-month percentage change,percent
+Real Personal Income excluding transfers,Growth / Activity,One-month percentage change,percent
+Real Personal Income,Growth / Activity,One-month percentage change,percent
+Real Retail & Food Services Sales,Growth / Activity,One-month percentage change,percent
+Housing Starts,Growth / Activity,One-month percentage change,percent
+Building Permits,Growth / Activity,One-month percentage change,percent
+Nonfarm Payroll Employment,Labor,One-month percentage change,percent
+Unemployment Rate,Labor,One-month first difference,percentage points
+Average Weekly Hours — Total Private,Labor,One-month first difference,hours
+Average Weekly Hours — Manufacturing,Labor,One-month first difference,hours
+Job Openings,Labor,One-month percentage change,percent
+Labor Force Participation Rate,Labor,One-month first difference,percentage points
+Average Hourly Earnings — Total Private,Labor,One-month percentage change,percent
+CPI All Items,Inflation,One-month percentage change,percent
+Core CPI,Inflation,One-month percentage change,percent
+PCE Price Index,Inflation,One-month percentage change,percent
+Core PCE Price Index,Inflation,One-month percentage change,percent
+Producer Prices — Final Demand,Inflation,One-month percentage change,percent
+Producer Prices — All Commodities,Inflation,One-month percentage change,percent
+Commercial & Industrial Loans,Credit,One-month percentage change,percent
+Consumer Credit,Credit,One-month percentage change,percent
+Federal Funds Rate,Policy / Liquidity,One-month first difference,percentage points
+Total Bank Reserves,Policy / Liquidity,One-month percentage change,percent
+M2 Money Supply,Policy / Liquidity,One-month percentage change,percent
+Total Capacity Utilization,External / Structural,One-month first difference,percentage points

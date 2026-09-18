@@ -1,0 +1,28 @@
+{
+  "monthly_variables": 27,
+  "transformed_variables": 27,
+  "raw_start": "1913-01-01",
+  "raw_end": "2026-08-01",
+  "change_start": "1913-02-01",
+  "change_end": "2026-08-01",
+  "unique_possible_pairs": 351,
+  "defined_pearson_pairs": 351,
+  "defined_spearman_pairs": 351,
+  "minimum_change_overlap": 199,
+  "maximum_change_overlap": 1290,
+  "highest_positive": "Industrial Production / Total Capacity Utilization: r=0.9837, n=714, 1967-02 to 2026-07",
+  "most_negative": "Nonfarm Payroll Employment / Unemployment Rate: r=-0.8786, n=941, 1948-02 to 2026-08",
+  "low_overlap_pairs": 0,
+  "excluded_frequency": [
+    "Initial Claims",
+    "SLOOS: Banks Tightening C&I Lending Standards",
+    "SLOOS: Stronger Demand for C&I Loans",
+    "Delinquency Rate on Business Loans",
+    "Reserve Balances with Federal Reserve Banks",
+    "Federal Reserve Total Assets",
+    "Real Exports of Goods and Services",
+    "Real Imports of Goods and Services",
+    "Nonfarm Business Sector Labor Productivity"
+  ],
+  "excluded_no_transformation": []
+}

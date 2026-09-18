@@ -1,0 +1,37 @@
+series_id,name,category,frequency,fred_url
+INDPRO,Industrial Production Index,growth_activity,monthly,https://fred.stlouisfed.org/series/INDPRO
+IPMAN,Industrial Production: Manufacturing,growth_activity,monthly,https://fred.stlouisfed.org/series/IPMAN
+PCEC96,Real Personal Consumption Expenditures,growth_activity,monthly,https://fred.stlouisfed.org/series/PCEC96
+W875RX1,Real Personal Income Excluding Current Transfer Receipts,growth_activity,monthly,https://fred.stlouisfed.org/series/W875RX1
+RPI,Real Personal Income,growth_activity,monthly,https://fred.stlouisfed.org/series/RPI
+RRSFS,Advance Real Retail and Food Services Sales,growth_activity,monthly,https://fred.stlouisfed.org/series/RRSFS
+HOUST,Housing Starts,growth_activity,monthly,https://fred.stlouisfed.org/series/HOUST
+PERMIT,Building Permits,growth_activity,monthly,https://fred.stlouisfed.org/series/PERMIT
+PAYEMS,All Employees: Total Nonfarm Payrolls,labor,monthly,https://fred.stlouisfed.org/series/PAYEMS
+UNRATE,Unemployment Rate,labor,monthly,https://fred.stlouisfed.org/series/UNRATE
+ICSA,Initial Claims,labor,weekly,https://fred.stlouisfed.org/series/ICSA
+AWHAETP,Average Weekly Hours: Total Private,labor,monthly,https://fred.stlouisfed.org/series/AWHAETP
+AWHMAN,Average Weekly Hours: Manufacturing,labor,monthly,https://fred.stlouisfed.org/series/AWHMAN
+JTSJOL,Job Openings: Total Nonfarm,labor,monthly,https://fred.stlouisfed.org/series/JTSJOL
+CIVPART,Labor Force Participation Rate,labor,monthly,https://fred.stlouisfed.org/series/CIVPART
+CES0500000003,Average Hourly Earnings: Total Private,labor,monthly,https://fred.stlouisfed.org/series/CES0500000003
+CPIAUCSL,Consumer Price Index: All Urban Consumers,inflation,monthly,https://fred.stlouisfed.org/series/CPIAUCSL
+CPILFESL,Core CPI,inflation,monthly,https://fred.stlouisfed.org/series/CPILFESL
+PCEPI,PCE Price Index,inflation,monthly,https://fred.stlouisfed.org/series/PCEPI
+PCEPILFE,Core PCE Price Index,inflation,monthly,https://fred.stlouisfed.org/series/PCEPILFE
+PPIFID,Producer Price Index: Final Demand,inflation,monthly,https://fred.stlouisfed.org/series/PPIFID
+PPIACO,Producer Price Index: All Commodities,inflation,monthly,https://fred.stlouisfed.org/series/PPIACO
+BUSLOANS,Commercial and Industrial Loans,credit,monthly,https://fred.stlouisfed.org/series/BUSLOANS
+TOTALSL,Total Consumer Credit Owned and Securitized,credit,monthly,https://fred.stlouisfed.org/series/TOTALSL
+DRTSCILM,SLOOS: Banks Tightening C&I Lending Standards,credit,quarterly,https://fred.stlouisfed.org/series/DRTSCILM
+DRSDCILM,SLOOS: Stronger Demand for C&I Loans,credit,quarterly,https://fred.stlouisfed.org/series/DRSDCILM
+DRBLACBS,Delinquency Rate on Business Loans,credit,quarterly,https://fred.stlouisfed.org/series/DRBLACBS
+FEDFUNDS,Federal Funds Effective Rate,policy_liquidity,monthly,https://fred.stlouisfed.org/series/FEDFUNDS
+TOTRESNS,Reserves of Depository Institutions: Total,policy_liquidity,monthly,https://fred.stlouisfed.org/series/TOTRESNS
+WRESBAL,Reserve Balances with Federal Reserve Banks,policy_liquidity,weekly,https://fred.stlouisfed.org/series/WRESBAL
+WALCL,Federal Reserve Total Assets,policy_liquidity,weekly,https://fred.stlouisfed.org/series/WALCL
+M2SL,M2 Money Stock,policy_liquidity,monthly,https://fred.stlouisfed.org/series/M2SL
+EXPGSC1,Real Exports of Goods and Services,external_structural,quarterly,https://fred.stlouisfed.org/series/EXPGSC1
+IMPGSC1,Real Imports of Goods and Services,external_structural,quarterly,https://fred.stlouisfed.org/series/IMPGSC1
+OPHNFB,Nonfarm Business Sector Labor Productivity,external_structural,quarterly,https://fred.stlouisfed.org/series/OPHNFB
+TCU,Capacity Utilization: Total Industry,external_structural,monthly,https://fred.stlouisfed.org/series/TCU

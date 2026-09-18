@@ -1,0 +1,28 @@
+Dataset,Start date,End date,Observations
+Industrial Production,1919-01-01,2026-07-01,1291
+Manufacturing Production,1972-01-01,2026-07-01,655
+Real Personal Consumption Expenditure,2007-01-01,2026-07-01,235
+Real Personal Income excluding transfers,1959-01-01,2026-07-01,811
+Real Personal Income,1959-01-01,2026-07-01,811
+Real Retail & Food Services Sales,1992-01-01,2026-08-01,415
+Housing Starts,1959-01-01,2026-08-01,812
+Building Permits,1960-01-01,2026-08-01,800
+Nonfarm Payroll Employment,1939-01-01,2026-08-01,1052
+Unemployment Rate,1948-01-01,2026-08-01,943
+Average Weekly Hours — Total Private,2006-03-01,2026-08-01,246
+Average Weekly Hours — Manufacturing,1939-01-01,2026-08-01,1052
+Job Openings,2000-12-01,2026-07-01,308
+Labor Force Participation Rate,1948-01-01,2026-08-01,943
+Average Hourly Earnings — Total Private,2006-03-01,2026-08-01,246
+CPI All Items,1947-01-01,2026-08-01,955
+Core CPI,1957-01-01,2026-08-01,835
+PCE Price Index,1959-01-01,2026-07-01,811
+Core PCE Price Index,1959-01-01,2026-07-01,811
+Producer Prices — Final Demand,2009-11-01,2026-08-01,202
+Producer Prices — All Commodities,1913-01-01,2026-08-01,1364
+Commercial & Industrial Loans,1947-01-01,2026-08-01,956
+Consumer Credit,1943-01-01,2026-07-01,1003
+Federal Funds Rate,1954-07-01,2026-08-01,866
+Total Bank Reserves,1959-01-01,2026-07-01,811
+M2 Money Supply,1959-01-01,2026-07-01,811
+Total Capacity Utilization,1967-01-01,2026-07-01,715

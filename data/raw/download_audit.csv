@@ -1,0 +1,37 @@
+series_id,name,category,expected_frequency,first_date,last_date,observations,missing_values,download_status
+INDPRO,Industrial Production Index,growth_activity,monthly,,,0,,FAILED
+IPMAN,Industrial Production: Manufacturing,growth_activity,monthly,,,0,,FAILED
+PCEC96,Real Personal Consumption Expenditures,growth_activity,monthly,,,0,,FAILED
+W875RX1,Real Personal Income Excluding Current Transfer Receipts,growth_activity,monthly,,,0,,FAILED
+RPI,Real Personal Income,growth_activity,monthly,,,0,,FAILED
+RRSFS,Advance Real Retail and Food Services Sales,growth_activity,monthly,,,0,,FAILED
+HOUST,Housing Starts,growth_activity,monthly,,,0,,FAILED
+PERMIT,Building Permits,growth_activity,monthly,,,0,,FAILED
+PAYEMS,All Employees: Total Nonfarm Payrolls,labor,monthly,,,0,,FAILED
+UNRATE,Unemployment Rate,labor,monthly,,,0,,FAILED
+ICSA,Initial Claims,labor,weekly,,,0,,FAILED
+AWHAETP,Average Weekly Hours: Total Private,labor,monthly,,,0,,FAILED
+AWHMAN,Average Weekly Hours: Manufacturing,labor,monthly,,,0,,FAILED
+JTSJOL,Job Openings: Total Nonfarm,labor,monthly,,,0,,FAILED
+CIVPART,Labor Force Participation Rate,labor,monthly,,,0,,FAILED
+CES0500000003,Average Hourly Earnings: Total Private,labor,monthly,,,0,,FAILED
+CPIAUCSL,Consumer Price Index: All Urban Consumers,inflation,monthly,,,0,,FAILED
+CPILFESL,Core CPI,inflation,monthly,,,0,,FAILED
+PCEPI,PCE Price Index,inflation,monthly,,,0,,FAILED
+PCEPILFE,Core PCE Price Index,inflation,monthly,,,0,,FAILED
+PPIFID,Producer Price Index: Final Demand,inflation,monthly,,,0,,FAILED
+PPIACO,Producer Price Index: All Commodities,inflation,monthly,,,0,,FAILED
+BUSLOANS,Commercial and Industrial Loans,credit,monthly,,,0,,FAILED
+TOTALSL,Total Consumer Credit Owned and Securitized,credit,monthly,,,0,,FAILED
+DRTSCILM,SLOOS: Banks Tightening C&I Lending Standards,credit,quarterly,,,0,,FAILED
+DRSDCILM,SLOOS: Stronger Demand for C&I Loans,credit,quarterly,,,0,,FAILED
+DRBLACBS,Delinquency Rate on Business Loans,credit,quarterly,,,0,,FAILED
+FEDFUNDS,Federal Funds Effective Rate,policy_liquidity,monthly,,,0,,FAILED
+TOTRESNS,Reserves of Depository Institutions: Total,policy_liquidity,monthly,,,0,,FAILED
+WRESBAL,Reserve Balances with Federal Reserve Banks,policy_liquidity,weekly,,,0,,FAILED
+WALCL,Federal Reserve Total Assets,policy_liquidity,weekly,,,0,,FAILED
+M2SL,M2 Money Stock,policy_liquidity,monthly,,,0,,FAILED
+EXPGSC1,Real Exports of Goods and Services,external_structural,quarterly,,,0,,FAILED
+IMPGSC1,Real Imports of Goods and Services,external_structural,quarterly,,,0,,FAILED
+OPHNFB,Nonfarm Business Sector Labor Productivity,external_structural,quarterly,,,0,,FAILED
+TCU,Capacity Utilization: Total Industry,external_structural,monthly,,,0,,FAILED

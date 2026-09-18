@@ -1,0 +1,21 @@
+Dataset 1,Dataset 2,Correlation,Overlapping observations,Category 1,Category 2,Overlap start,Overlap end
+Industrial Production,Total Capacity Utilization,0.9836908972962016,714,Growth / Activity,External / Structural,1967-02-01,2026-07-01
+Industrial Production,Manufacturing Production,0.9560883315141447,654,Growth / Activity,Growth / Activity,1972-02-01,2026-07-01
+Manufacturing Production,Total Capacity Utilization,0.9384523854007857,654,Growth / Activity,External / Structural,1972-02-01,2026-07-01
+Real Personal Consumption Expenditure,Real Retail & Food Services Sales,0.9212848215917803,232,Growth / Activity,Growth / Activity,2007-02-01,2026-07-01
+CPI All Items,PCE Price Index,0.9112860212995306,808,Inflation,Inflation,1959-02-01,2026-07-01
+PCE Price Index,Core PCE Price Index,0.8306264240669015,810,Inflation,Inflation,1959-02-01,2026-07-01
+Unemployment Rate,Average Hourly Earnings — Total Private,0.8290332372229251,243,Labor,Labor,2006-04-01,2026-08-01
+Producer Prices — Final Demand,Producer Prices — All Commodities,0.8148299672153587,201,Inflation,Inflation,2009-12-01,2026-08-01
+Manufacturing Production,Real Personal Consumption Expenditure,0.8079733659461156,234,Growth / Activity,Growth / Activity,2007-02-01,2026-07-01
+Real Personal Consumption Expenditure,Nonfarm Payroll Employment,0.7846501749549302,234,Growth / Activity,Labor,2007-02-01,2026-07-01
+Core CPI,Core PCE Price Index,0.7766688298528464,808,Inflation,Inflation,1959-02-01,2026-07-01
+Industrial Production,Real Personal Consumption Expenditure,0.7594489652384268,234,Growth / Activity,Growth / Activity,2007-02-01,2026-07-01
+Real Personal Consumption Expenditure,Total Capacity Utilization,0.7488481930129481,234,Growth / Activity,External / Structural,2007-02-01,2026-07-01
+Manufacturing Production,Nonfarm Payroll Employment,0.7399529486365124,654,Growth / Activity,Labor,1972-02-01,2026-07-01
+PCE Price Index,Producer Prices — Final Demand,0.7330845307753344,200,Inflation,Inflation,2009-12-01,2026-07-01
+Real Personal Consumption Expenditure,Labor Force Participation Rate,0.6963002917112873,232,Growth / Activity,Labor,2007-02-01,2026-07-01
+Real Personal Consumption Expenditure,Average Weekly Hours — Manufacturing,0.6795562547587989,234,Growth / Activity,Labor,2007-02-01,2026-07-01
+CPI All Items,Core CPI,0.6788806538636484,833,Inflation,Inflation,1957-02-01,2026-08-01
+Nonfarm Payroll Employment,Total Capacity Utilization,0.6771454014703089,714,Labor,External / Structural,1967-02-01,2026-07-01
+CPI All Items,Producer Prices — Final Demand,0.666551411246557,199,Inflation,Inflation,2009-12-01,2026-08-01

@@ -1,0 +1,5 @@
+Dataset 1,Dataset 2,Pearson,Spearman,Overlapping observations,Overlap start,Overlap end,Category 1,Category 2,Candidate
+Manufacturing Production,Real Personal Consumption Expenditure,0.8079733659461156,0.2889482051750338,234,2007-02-01,2026-07-01,Growth / Activity,Growth / Activity,False
+Nonfarm Payroll Employment,Unemployment Rate,-0.8785816838019592,-0.4281452417923607,941,1948-02-01,2026-08-01,Labor,Labor,False
+Nonfarm Payroll Employment,Average Hourly Earnings — Total Private,-0.8469216949745176,-0.06697723986871722,245,2006-04-01,2026-08-01,Labor,Labor,False
+Unemployment Rate,Average Hourly Earnings — Total Private,0.8290332372229251,0.053461514252510195,243,2006-04-01,2026-08-01,Labor,Labor,False
