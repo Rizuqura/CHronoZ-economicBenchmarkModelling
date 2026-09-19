@@ -1,0 +1,16 @@
+{
+  "series_id": "PERMIT",
+  "title": "Building Permits",
+  "executed_utc": "2026-09-19T03:37:57.803112+00:00",
+  "frequency": "monthly",
+  "transformation": "none; cleaned native levels",
+  "observations": 800,
+  "histogram_bin_count": 18,
+  "bin_rule": "numpy auto, capped at MAX_BINS",
+  "max_bins": 80,
+  "source_hashes_sha256": {
+    "data/cleaned/series_metadata.csv": "91f16477f8ed00bde12782245f2068a92cd48302e02e2cd7926ae6f401d8aa6d",
+    "data/audit/data_cleaning_audit.csv": "23308c70c53b392140466fa99a5868e43726cb31b6a1d4d5426f4b060a770e7a",
+    "data/cleaned/PERMIT.csv": "3536e5d4ccc4976c43b5dd339429b9f60cb89012e6d20bebcde53b881e19b181"
+  }
+}

@@ -1,0 +1,2 @@
+Dataset,Source,Expected frequency,Inferred frequency,Start date,End date,Observations,Clean missing values
+Producer Prices — Final Demand,FRED,monthly,monthly,2009-11-01,2026-08-01,202,0

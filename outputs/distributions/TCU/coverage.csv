@@ -1,0 +1,2 @@
+Dataset,Source,Expected frequency,Inferred frequency,Start date,End date,Observations,Clean missing values
+Total Capacity Utilization,FRED,monthly,monthly,1967-01-01,2026-07-01,715,0

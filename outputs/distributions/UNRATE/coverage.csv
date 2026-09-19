@@ -1,0 +1,2 @@
+Dataset,Source,Expected frequency,Inferred frequency,Start date,End date,Observations,Clean missing values
+Unemployment Rate,FRED,monthly,monthly,1948-01-01,2026-08-01,943,0

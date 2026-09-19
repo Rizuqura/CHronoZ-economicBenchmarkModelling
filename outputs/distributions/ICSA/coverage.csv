@@ -1,0 +1,2 @@
+Dataset,Source,Expected frequency,Inferred frequency,Start date,End date,Observations,Clean missing values
+Initial Claims,FRED,weekly,weekly,1967-01-07,2026-09-12,3115,0

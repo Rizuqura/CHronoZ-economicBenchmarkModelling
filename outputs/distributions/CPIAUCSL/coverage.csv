@@ -1,0 +1,2 @@
+Dataset,Source,Expected frequency,Inferred frequency,Start date,End date,Observations,Clean missing values
+CPI All Items,FRED,monthly,monthly,1947-01-01,2026-08-01,955,0

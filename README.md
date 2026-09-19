@@ -1,4 +1,4 @@
-﻿# CHronoZ local macroeconomic cleaning
+# CHronoZ local macroeconomic cleaning
 
 Run `python dataCleansing.py` with `requirements.txt` installed. All active registry,
 discovery, inspection, validation, cleaning, and reporting logic lives in
@@ -131,3 +131,29 @@ automatically remove variables, and rolling paths do not define regimes.
 Use Restart Kernel and Run All, or substitute the notebook filename in the
 execution command above. Each output directory contains source fingerprints,
 parameters, CSV results, PNG charts, and a computed summary.
+
+## Individual variable distributions
+
+`notebook/data-learning/` contains one notebook per cleaned series, named
+`<category>/<SERIES_ID>.ipynb`, grouped into growth/activity, labor, inflation,
+credit, policy/liquidity, and external/structural. See its [notebook index](notebook/data-learning/README.md)
+for the complete list. Each independently loads its native-frequency cleaned
+CSV and displays coverage, audit notes, descriptive statistics, a histogram,
+and a horizontal box plot using the full dataset title.
+
+These notebooks include all 36 monthly, weekly, and quarterly variables.
+They plot cleaned levels without transformations, resampling, imputation, or
+outlier removal. Full-history distributions may reflect trends and changing
+conditions; they are not fitted probability models or stationary benchmarks.
+Plots, histogram counts, summary tables, and source fingerprints are exported
+to `outputs/distributions/<SERIES_ID>/`.
+
+## Delta transformation study
+
+[Open the executed delta analysis notebook](notebook/deltaAnalysis/analysis.ipynb)
+to inspect all 36 cleaned series and 71 candidate change distributions. The
+notebook groups candidates into growth, first-difference, stress/event,
+semantic-balance, and regime-sensitive liquidity families. It preserves native
+frequencies, skips changes across calendar gaps, and includes comparison tables
+and preliminary suitability notes. All figures are saved inline. This is an
+exploratory study; it does not construct a benchmark or train models.

@@ -1,0 +1,2 @@
+Dataset,Source,Expected frequency,Inferred frequency,Start date,End date,Observations,Clean missing values
+Real Personal Consumption Expenditure,FRED,monthly,monthly,2007-01-01,2026-07-01,235,0

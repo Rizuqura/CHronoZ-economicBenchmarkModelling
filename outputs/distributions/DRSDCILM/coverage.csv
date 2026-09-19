@@ -1,0 +1,2 @@
+Dataset,Source,Expected frequency,Inferred frequency,Start date,End date,Observations,Clean missing values
+SLOOS: Stronger Demand for C&I Loans,FRED,quarterly,quarterly,1991-10-01,2026-07-01,140,0

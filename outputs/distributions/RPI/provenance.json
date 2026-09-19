@@ -1,0 +1,16 @@
+{
+  "series_id": "RPI",
+  "title": "Real Personal Income",
+  "executed_utc": "2026-09-19T03:38:06.864372+00:00",
+  "frequency": "monthly",
+  "transformation": "none; cleaned native levels",
+  "observations": 811,
+  "histogram_bin_count": 11,
+  "bin_rule": "numpy auto, capped at MAX_BINS",
+  "max_bins": 80,
+  "source_hashes_sha256": {
+    "data/cleaned/series_metadata.csv": "91f16477f8ed00bde12782245f2068a92cd48302e02e2cd7926ae6f401d8aa6d",
+    "data/audit/data_cleaning_audit.csv": "23308c70c53b392140466fa99a5868e43726cb31b6a1d4d5426f4b060a770e7a",
+    "data/cleaned/RPI.csv": "b618fbf9375e1347e895a69e5c00b0853abdd4789bdb9587e1123c93e36acd4d"
+  }
+}

@@ -1,0 +1,2 @@
+Dataset,Source,Expected frequency,Inferred frequency,Start date,End date,Observations,Clean missing values
+Manufacturing Production,FRED,monthly,monthly,1972-01-01,2026-07-01,655,0

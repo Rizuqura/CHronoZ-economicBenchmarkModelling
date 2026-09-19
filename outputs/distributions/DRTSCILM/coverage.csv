@@ -1,0 +1,2 @@
+Dataset,Source,Expected frequency,Inferred frequency,Start date,End date,Observations,Clean missing values
+SLOOS: Banks Tightening C&I Lending Standards,FRED,quarterly,quarterly,1990-04-01,2026-07-01,146,0

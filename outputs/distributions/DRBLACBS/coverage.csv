@@ -1,0 +1,2 @@
+Dataset,Source,Expected frequency,Inferred frequency,Start date,End date,Observations,Clean missing values
+Delinquency Rate on Business Loans,FRED,quarterly,quarterly,1987-01-01,2026-04-01,158,0

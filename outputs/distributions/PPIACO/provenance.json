@@ -1,0 +1,16 @@
+{
+  "series_id": "PPIACO",
+  "title": "Producer Prices \u2014 All Commodities",
+  "executed_utc": "2026-09-19T03:37:57.775982+00:00",
+  "frequency": "monthly",
+  "transformation": "none; cleaned native levels",
+  "observations": 1364,
+  "histogram_bin_count": 15,
+  "bin_rule": "numpy auto, capped at MAX_BINS",
+  "max_bins": 80,
+  "source_hashes_sha256": {
+    "data/cleaned/series_metadata.csv": "91f16477f8ed00bde12782245f2068a92cd48302e02e2cd7926ae6f401d8aa6d",
+    "data/audit/data_cleaning_audit.csv": "23308c70c53b392140466fa99a5868e43726cb31b6a1d4d5426f4b060a770e7a",
+    "data/cleaned/PPIACO.csv": "773abac12899c316cb334d286bfefbf2247ebea5b95caa28d271ea58855bcbdc"
+  }
+}

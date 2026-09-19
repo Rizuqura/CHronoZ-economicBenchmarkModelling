@@ -1,0 +1,2 @@
+Dataset,Source,Expected frequency,Inferred frequency,Start date,End date,Observations,Clean missing values
+Average Weekly Hours — Manufacturing,FRED,monthly,monthly,1939-01-01,2026-08-01,1052,0

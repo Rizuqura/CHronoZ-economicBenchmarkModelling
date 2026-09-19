@@ -243,6 +243,7 @@ def clean_series(raw, series, info, warnings, start):
                 extreme_numeric_count=int(huge.sum()), raw_missing_count=int(recognized_missing.sum()),
                 duplicate_dates=int(dates[duplicate].nunique()), conflicting_duplicate_dates=bool(len(conflict_dates)),
                 conflicting_duplicate_date_count=len(conflict_dates), originally_sorted=dates.dropna().is_monotonic_increasing)
+
     # Unknown text is useful evidence: remove invalid-date rows only when ALL other
     # fields are recognized missing. Preserve footer text for human review.
     other = raw.drop(columns=[date])

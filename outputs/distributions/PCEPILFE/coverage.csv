@@ -1,0 +1,2 @@
+Dataset,Source,Expected frequency,Inferred frequency,Start date,End date,Observations,Clean missing values
+Core PCE Price Index,FRED,monthly,monthly,1959-01-01,2026-07-01,811,0
