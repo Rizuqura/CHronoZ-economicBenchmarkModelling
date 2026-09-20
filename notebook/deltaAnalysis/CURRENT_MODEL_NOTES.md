@@ -10,9 +10,11 @@ Use the current delta/change approach for **30 variables: ranks 1-31 except
 AWHAETP (rank 28)**. Their working label is **GOOD**. Ranks 20-31 excluding
 AWHAETP were approved on **2026-09-20** based on the user's audit.
 
-**Six variables remain outside GOOD:** AWHAETP (28), ICSA (32), WALCL (33),
-WRESBAL (34), TOTRESNS (35), and UNRATE (36). AWHAETP and ICSA retain the user's
-**(SKIP)** markers; the remaining four are pending further algorithm research.
+**Six variables are approved under alternative model families:**
+**3 PASS — ALT MODEL**, **2 PASS — REGIME MODEL**, and
+**1 PASS — STRUCTURAL MODEL**. These replace the previous SKIP/pending labels
+for AWHAETP, ICSA, WALCL, WRESBAL, TOTRESNS, and UNRATE. All **36 variables** now
+have a research-use selection: **30 GOOD + 6 alternative-model PASS**.
 
 PPIACO retains its regime-sensitivity cautions. PCEC96 uses outlier-robust
 calibration, preserving and scoring historical events while excluding flagged
@@ -64,20 +66,30 @@ it does not by itself change the listed transformation or implement a model.
 | 30 | `RPI` | Real Personal Income | Δlog(x) | 🟠 Weak originally; now **GOOD** | User-audited: usable as a benchmark (2026-09-20). Original note: Fiscal transfers membuat gigantic jumps; unconditional delta distribution mudah menyesatkan. |
 | 31 | `PAYEMS` | Payroll Employment | Δlog(x) atau Δ jobs | 🟠 Weak originally; now **GOOD** | User-audited: usable as a benchmark (2026-09-20). Original note: Normally bagus, tetapi COVID membuat skew sekitar -14 pada log-delta. Lebih cocok robust/regime model. |
 
-## RESEARCH_PENDING: find a suitable algorithm or treatment
+## PASS: alternative, regime, and structural models
 
-Six variables remain outside GOOD. **AWHAETP (28) and ICSA (32) are explicitly
-marked SKIP** and must not be promoted by the ranks 20-31 approval. The other
-four entries still require algorithm research. All source observations remain.
+These statuses and model choices record the user's **2026-09-20** review.
+Reference: [Non-Standard Delta Model Audit](audit-nonstandard-delta-models.ipynb).
+They supersede the former SKIP/pending designations for these six variables.
+The audit's computed experimental verdicts remain separate from these approvals.
 
-| Rank | Series | Variable | Preferred change | Original rating / current status | Research rationale |
+| Rank | Series | Variable | Preferred change | Current status | Selected model and rationale |
 | ---: | --- | --- | --- | --- | --- |
-| 28 | `AWHAETP` | Weekly Hours Total Private | Δ level | 🟡 Weak; **SKIP** | Δ secara unit benar, tetapi ~48% perubahan persis nol karena seri bergerak dalam increments kecil/rounding. (SKIP) |
-| 32 | `ICSA` | Initial Claims | Δlog(x) | 🟠 Weak; **SKIP** | High-frequency bagus, tetapi crisis spikes ekstrem; log membantu tetapi tail tetap brutal. (SKIP) |
-| 33 | `WALCL` | Fed Total Assets | Δlog(x) | 🟠 Weak | Balance sheet adalah policy stock: QE/QT menciptakan structural breaks, bukan random fluctuations dari satu distribution. |
-| 34 | `WRESBAL` | Reserve Balances | Δlog(x) / signed % | 🟠 Weak | Kebijakan dan plumbing liquidity mendominasi; distribution berubah antar monetary regimes. |
-| 35 | `TOTRESNS` | Total Reserves | Δlog(x) | 🔴 Poor unconditional | Reserve regime sebelum/after 2008 praktis dunia berbeda. Satu historical distribution akan mencampur dua DGP. |
-| 36 | `UNRATE` | Unemployment Rate | Δ level / pp | 🔴 Poor unconditional | Secara unit Δ benar, tetapi 24.5% perubahan = 0 dan COVID menghasilkan skew Δ ≈ +16.7, kurtosis >400. Single delta distribution jelas tidak cukup. |
+| 28 | `AWHAETP` | Weekly Hours Total Private | Δ level | 🟡 PASS — ALT MODEL | `DISCRETE_DELTA`: empirical PMF / discrete change frequencies; banyak zero-change sehingga standard continuous z-score tidak ideal. |
+| 32 | `ICSA` | Initial Claims | Δlog(x) | 🟡 PASS — ALT MODEL | `ROBUST_DELTA`: median + MAD + empirical percentile; crisis tails retained and flagged, not removed. |
+| 33 | `WALCL` | Fed Total Assets | Δlog(x) | 🟠 PASS — REGIME MODEL | `REGIME_ROBUST_DELTA`: score relative to regime-specific median/MAD; one global distribution misleading due to QE/QT-style structural behavior. |
+| 34 | `WRESBAL` | Reserve Balances | Δlog(x) | 🟠 PASS — REGIME MODEL | `REGIME_ROBUST_DELTA`: regime-conditioned robust normalization; liquidity plumbing creates heavy tails and unstable variance. |
+| 35 | `TOTRESNS` | Total Reserves | Δlog(x) | 🟠 PASS — STRUCTURAL MODEL | `STRUCTURAL_EPOCH + ROBUST_DELTA`: segment monetary epochs, then normalize within epoch using robust center/scale. |
+| 36 | `UNRATE` | Unemployment Rate | Δ level / pp | 🟡 PASS — ALT MODEL | `DISCRETE_PLUS_SHOCK`: empirical discrete delta distribution for ordinary moves + robust shock flag for rare crisis jumps. |
+
+**Interpretation and implementation:** the rationales above are the user's
+research interpretation, not causal findings established by the audit. WALCL's
+selection emphasizes the within-regime robust score already compared in the
+audit. TOTRESNS selects robust normalization within structural epochs; the audit
+computes that score alongside standard epoch z-scores, while its main comparison
+uses standard epoch z. Regime definitions, epoch boundaries, and threshold
+validation remain experimental. These notes select model families without
+changing notebook code or declaring a production implementation.
 
 ## PPIACO: selected transformation and intended interpretation
 
@@ -177,7 +189,8 @@ validation of a production benchmark.
 
 ## Interpretation and implementation notes
 
-- **Source of judgments:** the user's supplied ranked table. Reasons are preserved
+- **Source of judgments:** the user's supplied ranked table and subsequent audit
+  decisions, including the six alternative-model approvals on 2026-09-20. Reasons are preserved
   in their original language. Approximate statistics, causal explanations, and
   claims about stationarity or comparative improvement are user-supplied research
   notes; they were not independently revalidated for this document, except for
@@ -191,12 +204,13 @@ validation of a production benchmark.
   Never calculate a one-step change across a missing calendar period.
 - **Survey balances:** retain the meaningful native levels of DRTSCILM and
   DRSDCILM alongside their momentum measures.
-- **Unimplemented alternatives:** PAYEMS absolute jobs change and WRESBAL
-  signed-percent terminology remain proposals requiring an explicit definition
-  and evaluation. This note does not add them to the notebook registry.
-- **Next research:** investigate the pending variables' rounding/zero changes,
-  crisis tails, and regime dependence before selecting a fitting algorithm.
-  Do not infer that removing observations is the solution.
+- **Unimplemented alternatives:** PAYEMS absolute jobs change remains a proposal
+  requiring evaluation. WRESBAL now selects log change with regime-conditioned
+  robust scoring, superseding the earlier signed-percent alternative. This note
+  does not change the notebook registry.
+- **Next research:** validate the selected model families across time, including
+  sparse discrete outcomes, crisis tails, regime definitions, and epoch boundaries.
+  Research-use approval does not replace calibration and held-out validation.
 
 The dedicated audits add descriptive normalization and range markings; PCEC96
 also separates outlier-robust calibration from full-history scoring.
